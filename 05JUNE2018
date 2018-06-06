@@ -35,34 +35,180 @@ http://217.182.173.184:8000/live/asil/1234/10619.ts
 #EXTINF:0 group-title="(AR) Argentina",OSN YA HALA | HD (AR)
 http://217.182.173.184:8000/live/asil/1234/10616.ts
 #EXTINF:0 group-title="(AR) Argentina",OSN YA HALA CINEMA | HD (AR)
+servers.xyz:8000/live/kristian02/kristian02/4303.ts
+#EXTINF:-1,AR-SeeVii-AlAoula
+http://best-servers.xyz:8000/live/kristian02/kristian02/8605.ts
+#EXTINF:-1,AR-SeeVii-Beelink
+http://best-servers.xyz:8000/live/kristian02/kristian02/8604.ts
+#EXTINF:-1,AR-SeeVii-Drama
+http://best-servers.xyz:8000/live/kristian02/kristian02/8603.ts
+#EXTINF:-1,AR-SeeVii-Shamiya
+http://best-servers.xyz:8000/live/kristian02/kristian02/8602.ts
+#EXTINF:-1,AR-Rotana_Cinema-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/5515.ts
+#EXTINF:-1,AR-Rotana-Cinema-EGY
+http://best-servers.xyz:8000/live/kristian02/kristian02/2118.ts
+#EXTINF:-1,AR-Rotana-Cinema-KSA
+http://best-servers.xyz:8000/live/kristian02/kristian02/2117.ts
+#EXTINF:-1,AR-Rotana_Aflam
+http://best-servers.xyz:8000/live/kristian02/kristian02/5514.ts
+#EXTINF:-1,AR-Rotana_Masria-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/5513.ts
+#EXTINF:-1,AR-Rotana-Masriya
+http://best-servers.xyz:8000/live/kristian02/kristian02/2314.ts
+#EXTINF:-1,AR-Rotana-Clip
+http://best-servers.xyz:8000/live/kristian02/kristian02/107.ts
+#EXTINF:-1,AR-Rotana_Music-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/5518.ts
+#EXTINF:-1,AR-Rotana-Music
+http://best-servers.xyz:8000/live/kristian02/kristian02/2218.ts
+#EXTINF:-1,AR-Rotana-Khalijiya HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/7422.ts
+#EXTINF:-1,AR-Rotana-Khalijiya
+http://best-servers.xyz:8000/live/kristian02/kristian02/2156.ts
+#EXTINF:-1,AR-Rotana_Classic-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/5516.ts
+#EXTINF:-1,AR-Rotana-Classic
+http://best-servers.xyz:8000/live/kristian02/kristian02/2120.ts
+#EXTINF:-1,AR-ART_Aflam_1
+http://best-servers.xyz:8000/live/kristian02/kristian02/122.ts
+#EXTINF:-1,AR-ART_Aflam-2
+http://best-servers.xyz:8000/live/kristian02/kristian02/3835.ts
+#EXTINF:-1,AR-ART_Cinema
+http://best-servers.xyz:8000/live/kristian02/kristian02/3836.ts
+#EXTINF:-1,AR-ART_Hekayat-1
+http://best-servers.xyz:8000/live/kristian02/kristian02/3837.ts
+#EXTINF:-1,AR-ART_Hekayat-2
+http://best-servers.xyz:8000/live/kristian02/kristian02/3838.ts
+#EXTINF:-1,AR-BeIn_Movies1_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2265.ts
+#EXTINF:-1,AR-BeIn_Movies2_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/3828.ts
+#EXTINF:-1,AR-BeIn_Movies3_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/3829.ts
+#EXTINF:-1,AR-BeIn_Movies4_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/3830.ts
+#EXTINF:-1,Ar-Bein-Gourmet
+http://best-servers.xyz:8000/live/kristian02/kristian02/7928.ts
+#EXTINF:-1,Ar-Bein-Junior
+http://best-servers.xyz:8000/live/kristian02/kristian02/7929.ts
+#EXTINF:-1,Ar-BeIN-Series
+http://best-servers.xyz:8000/live/kristian02/kristian02/7930.ts
+#EXTINF:-1,AR-StarCinema-1
+http://best-servers.xyz:8000/live/kristian02/kristian02/3843.ts
+#EXTINF:-1,AR-StarCinema-2
+#EXTINF:-1,AR-Jeem-TV
+http://best-servers.xyz:8000/live/kristian02/kristian02/2306.ts
+#EXTINF:-1,Bein_news
+http://best-servers.xyz:8000/live/kristian02/kristian02/5606.ts
+#EXTINF:-1,beIN-SPORTS-Max-1-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/3864.ts
+#EXTINF:-1,beIN-SPORTS-Max-2-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2282.ts
+#EXTINF:-1,beIN-SPORTS-Max-3-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/3865.ts
+#EXTINF:-1,beIN-SPORTS-Max-4-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/3866.ts
+#EXTINF:-1,beIN-SPORTS-Max-1-SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/14397.ts
+#EXTINF:-1,beIN-SPORTS-Max-2-SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/14398.ts
+#EXTINF:-1,beIN-SPORTS-Max-3-SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/14399.ts
+#EXTINF:-1,beIN-SPORTS-Max-4-SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/14400.ts
+#EXTINF:-1,beIN-SPORTS-HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/3867.ts
+#EXTINF:-1,beIN-SPORTS-1HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2270.ts
+#EXTINF:-1,bein1-hd-v2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10543.ts
+#EXTINF:-1,bein1-hd-v3
+http://best-servers.xyz:8000/live/kristian02/kristian02/10545.ts
+#EXTINF:-1,bein1-sd-v2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10544.ts
+#EXTINF:-1,beIN-SPORTS-1SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/8471.ts
+#EXTINF:-1,beIN-SPORTS-1SDV2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10589.ts
+#EXTINF:-1,beIN-SPORTS-2HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2271.ts
+#EXTINF:-1,beIN-SPORTS-2SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/8472.ts
+#EXTINF:-1,beIN-SPORTS-2SDV2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10588.ts
+#EXTINF:-1,beIN-SPORTS-3HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2272.ts
+#EXTINF:-1,beIN-SPORTS-3SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/8539.ts
+#EXTINF:-1,beIN-SPORTS-3SDV2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10586.ts
+#EXTINF:-1,beIN-SPORTS-4HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2273.ts
+#EXTINF:-1,beIN-SPORTS-4SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/8690.ts
+#EXTINF:-1,beIN-SPORTS-4SDV2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10585.ts
+#EXTINF:-1,beIN-SPORTS-5HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2274.ts
+#EXTINF:-1,beIN-SPORTS-5SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/8689.ts
+#EXTINF:-1,beIN-SPORTS-5SDV2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10587.ts
+#EXTINF:-1,beIN-SPORTS-6HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2275.ts
+#EXTINF:-1,beIN-SPORTS-6SD
+http://best-servers.xyz:8000/live/kristian02/kristian02/9984.ts
+#EXTINF:-1,beIN-SPORTS-6SDV2
+http://best-servers.xyz:8000/live/kristian02/kristian02/10584.ts
+#EXTINF:-1,beIN-SPORTS-7HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2276.ts
+#EXTINF:-1,beIN-SPORTS-8HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2277.ts
+#EXTINF:-1,beIN-SPORTS-9HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2278.ts
+#EXTINF:-1,beIN-SPORTS-10HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2279.ts
+#EXTINF:-1,beIN-SPORTS-11HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2280.ts
+#EXTINF:-1,beIN-SPORTS-12HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/2281.ts
+#EXTINF:-1,beIN-SPORTS-1-H265
+http://best-servers.xyz:8000/live/kristian02/kristian02/9935.ts
+#EXTINF:-1,beIN-SPORTS-2-H265
+http://best-servers.xyz:8000/live/kristian02/kristian02/9940.ts
+#EXTINF:-1,beIN-SPORTS-3-H265
+http://best-servers.xyz:8000/live/kristian02/kristian02/9939.ts
+#EXTINF:-1,beIN-SPORTS-4-H265
+http://best-servers.xyz:8000/live/kristian02/kristian02/9938.ts
+#EXTINF:-1,beIN-SPORTS-5-H265
+http://best-servers.xyz:8000/live/kristian02/kristian02/9937.ts
+#EXTINF:-1,beIN-SPORTS-6-H265
+http://best-servers.xyz:8000/live/kristian02/kristian02/3945.ts
+#EXTINF:-1,osn-Discovery_Family_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/4571.ts
+#EXTINF:-1,osn-Movies_First_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/4596.ts
+#EXTINF:-1,osn-Discovery_IDX_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/4573.ts
+#EXTINF:-1,osn-ALYOUM
+http://best-servers.xyz:8000/live/kristian02/kristian02/2289.ts
+#EXTINF:-1,osn-Movies_Action_HD_2
+http://best-servers.xyz:8000/live/kristian02/kristian02/4590.ts
+#EXTINF:-1,osn-CINEMA_1
+http://best-servers.xyz:8000/live/kristian02/kristian02/2292.ts
+#EXTINF:-1,osn-H2_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/4583.ts
+#EXTINF:-1,osn-History_Channel_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/4584.ts
+#EXTINF:-1,osn-Star_Movie_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/7294.ts
+#EXTINF:-1,osn-Syfy_HD
+http://best-servers.xyz:8000/live/kristian02/kristian02/7298.ts
+#EXTINF:-1,osn-ALSAFWA
+http://best-servers.xyz:8000/live/kristian02/kristian02/2288.ts
+ 
 #EXTINF:-1,iptv48
-iptv48.ml
-#EXTINF:-1,beIN SPORTS MAX HD 1
-http://titiroq.xyz:25461/live/6656/6656/28651.ts
-#EXTINF:-1,beIN SPORTS MAX HD 1+
-http://titiroq.xyz:25461/live/6656/6656/28648.ts
-#EXTINF:-1,beIN SPORTS MAX SD 1
-http://titiroq.xyz:25461/live/6656/6656/28217.ts
-#EXTINF:-1,beIN SPORTS MAX SD 1+
-http://titiroq.xyz:25461/live/6656/6656/28645.ts
-#EXTINF:-1,beIN SPORTS MAX HD 2
-http://titiroq.xyz:25461/live/6656/6656/28650.ts
-#EXTINF:-1,beIN SPORTS MAX HD 2+
-http://titiroq.xyz:25461/live/6656/6656/28647.ts
-#EXTINF:-1,beIN SPORTS MAX SD 2
-http://titiroq.xyz:25461/live/6656/6656/28220.ts
-#EXTINF:-1,beIN SPORTS MAX SD 2+
-http://titiroq.xyz:25461/live/6656/6656/28644.ts
-#EXTINF:-1,beIN SPORTS MAX HD 3
-http://titiroq.xyz:25461/live/6656/6656/24281.ts
-#EXTINF:-1,beIN SPORTS MAX HD 4
-http://titiroq.xyz:25461/live/6656/6656/24280.ts
-#EXTINF:-1,beIN SPORTS MAX SD 4
-http://www.zeebra.tv:8000/live/Dreambox/Dreambox/2545.ts
-#EXTINF:-1,beIN SPORTS MAX HD 5
-http://titiroq.xyz:25461/live/6656/6656/24279.ts
-#EXTINF:-1,beIN SPORTS MAX SD 5
-http://www.zeebra.tv:8000/live/Dreambox/Dreambox/2544.ts
 #EXTINF:-1,============= BeIN Channels =============
 http://geant-info.us/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
 #EXTINF:-1,..:: BEIN SPORTS 4K ::..
@@ -153,17 +299,3 @@ http://geant-info.us/live/get.php?stream=6&username=67707200046526&password=6770
 http://geant-info.us/live/get.php?stream=7&username=67707200046526&password=67707200046526
 #EXTINF:-1,BEINSPORT 8 Low
 http://geant-info.us/live/get.php?stream=8&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 1 Low
-http://geant-info.us/live/get.php?stream=39&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 2 Low
-http://geant-info.us/live/get.php?stream=40&username=67707200046526&password=67707200046526
-#EXTINF:-1,..:: BeIN MOVIES HD::..
-http://geant-info.us/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
-#EXTINF:-1,BeIN MOVIES 1 HD
-http://geant-info.us/live/get.php?stream=35&username=67707200046526&password=67707200046526
-#EXTINF:-1,BeIN MOVIES 2 HD
-http://geant-info.us/live/get.php?stream=36&username=67707200046526&password=67707200046526
-#EXTINF:-1,BeIN MOVIES 3 HD
-http://geant-info.us/live/get.php?stream=37&username=67707200046526&password=67707200046526
-#EXTINF:-1,BeIN MOVIES 4 HD
-http://geant-info.us/live/get.php?stream=38&username=67707200046526&password=67707200046526
