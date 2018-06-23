@@ -1,301 +1,1806 @@
 #EXTM3U
-http://devcon101.com:8080/live/yilmazisik/isikyilmaz/10741.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN ACTION | SD (AR)
-http://164.132.200.17:8080/live/elcin67/elcin67/2992.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN ACTION 2 | SD (AR)
-http://164.132.200.17:8080/live/elcin67/elcin67/2991.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN ART AFLAM 2 | SD (AR)
-http://164.132.200.17:8080/live/elcin67/elcin67/2989.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN ART CINEMA | SD (AR)
-http://164.132.200.17:8080/live/elcin67/elcin67/2990.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN MOVIE ACTION | SD (AR)
-http://217.182.173.184:8000/live/asil/1234/10604.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN MOVIES ACTION | HD (AR)
-http://devcon101.com:8080/live/yilmazisik/isikyilmaz/3062.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN MOVIES ACTION 2 | HD (AR)
-http://devcon101.com:8080/live/SjAYSW7LIk/SFCF13RqVW/10819.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN MOVIES ACTION 2 | HD (AR)
-http://devcon101.com:8080/live/yilmazisik/isikyilmaz/10819.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN MOVIES COMEDY PLUS2 | HD (AR)
-http://devcon101.com:8080/live/yilmazisik/isikyilmaz/3060.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN MOVIES KIDS | HD (AR)
-http://devcon101.com:8080/live/yilmazisik/isikyilmaz/3057.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN ON DEMAND 3 | SD (AR)
-http://217.182.173.184:8000/live/asil/1234/10613.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN ON DEMAND EXTRA1 | HD (AR)
-http://217.182.173.184:8000/live/asil/1234/10614.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN PREMIERE | SD (AR)
-http://217.182.173.184:8000/live/asil/1234/10617.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN STAR MOVIE | HD (AR)
-http://devcon101.com:8080/live/SjAYSW7LIk/SFCF13RqVW/10361.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN STAR MOVIES | SD (AR)
-http://217.182.173.184:8000/live/asil/1234/10618.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN STAR WORLD | HD (AR)
-http://217.182.173.184:8000/live/asil/1234/10619.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN YA HALA | HD (AR)
-http://217.182.173.184:8000/live/asil/1234/10616.ts
-#EXTINF:0 group-title="(AR) Argentina",OSN YA HALA CINEMA | HD (AR)
-servers.xyz:8000/live/kristian02/kristian02/4303.ts
-#EXTINF:-1,AR-SeeVii-AlAoula
-http://best-servers.xyz:8000/live/kristian02/kristian02/8605.ts
-#EXTINF:-1,AR-SeeVii-Beelink
-http://best-servers.xyz:8000/live/kristian02/kristian02/8604.ts
-#EXTINF:-1,AR-SeeVii-Drama
-http://best-servers.xyz:8000/live/kristian02/kristian02/8603.ts
-#EXTINF:-1,AR-SeeVii-Shamiya
-http://best-servers.xyz:8000/live/kristian02/kristian02/8602.ts
-#EXTINF:-1,AR-Rotana_Cinema-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/5515.ts
-#EXTINF:-1,AR-Rotana-Cinema-EGY
-http://best-servers.xyz:8000/live/kristian02/kristian02/2118.ts
-#EXTINF:-1,AR-Rotana-Cinema-KSA
-http://best-servers.xyz:8000/live/kristian02/kristian02/2117.ts
-#EXTINF:-1,AR-Rotana_Aflam
-http://best-servers.xyz:8000/live/kristian02/kristian02/5514.ts
-#EXTINF:-1,AR-Rotana_Masria-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/5513.ts
-#EXTINF:-1,AR-Rotana-Masriya
-http://best-servers.xyz:8000/live/kristian02/kristian02/2314.ts
-#EXTINF:-1,AR-Rotana-Clip
-http://best-servers.xyz:8000/live/kristian02/kristian02/107.ts
-#EXTINF:-1,AR-Rotana_Music-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/5518.ts
-#EXTINF:-1,AR-Rotana-Music
-http://best-servers.xyz:8000/live/kristian02/kristian02/2218.ts
-#EXTINF:-1,AR-Rotana-Khalijiya HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/7422.ts
-#EXTINF:-1,AR-Rotana-Khalijiya
-http://best-servers.xyz:8000/live/kristian02/kristian02/2156.ts
-#EXTINF:-1,AR-Rotana_Classic-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/5516.ts
-#EXTINF:-1,AR-Rotana-Classic
-http://best-servers.xyz:8000/live/kristian02/kristian02/2120.ts
-#EXTINF:-1,AR-ART_Aflam_1
-http://best-servers.xyz:8000/live/kristian02/kristian02/122.ts
-#EXTINF:-1,AR-ART_Aflam-2
-http://best-servers.xyz:8000/live/kristian02/kristian02/3835.ts
-#EXTINF:-1,AR-ART_Cinema
-http://best-servers.xyz:8000/live/kristian02/kristian02/3836.ts
-#EXTINF:-1,AR-ART_Hekayat-1
-http://best-servers.xyz:8000/live/kristian02/kristian02/3837.ts
-#EXTINF:-1,AR-ART_Hekayat-2
-http://best-servers.xyz:8000/live/kristian02/kristian02/3838.ts
-#EXTINF:-1,AR-BeIn_Movies1_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2265.ts
-#EXTINF:-1,AR-BeIn_Movies2_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/3828.ts
-#EXTINF:-1,AR-BeIn_Movies3_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/3829.ts
-#EXTINF:-1,AR-BeIn_Movies4_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/3830.ts
-#EXTINF:-1,Ar-Bein-Gourmet
-http://best-servers.xyz:8000/live/kristian02/kristian02/7928.ts
-#EXTINF:-1,Ar-Bein-Junior
-http://best-servers.xyz:8000/live/kristian02/kristian02/7929.ts
-#EXTINF:-1,Ar-BeIN-Series
-http://best-servers.xyz:8000/live/kristian02/kristian02/7930.ts
-#EXTINF:-1,AR-StarCinema-1
-http://best-servers.xyz:8000/live/kristian02/kristian02/3843.ts
-#EXTINF:-1,AR-StarCinema-2
-#EXTINF:-1,AR-Jeem-TV
-http://best-servers.xyz:8000/live/kristian02/kristian02/2306.ts
-#EXTINF:-1,Bein_news
-http://best-servers.xyz:8000/live/kristian02/kristian02/5606.ts
-#EXTINF:-1,beIN-SPORTS-Max-1-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/3864.ts
-#EXTINF:-1,beIN-SPORTS-Max-2-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2282.ts
-#EXTINF:-1,beIN-SPORTS-Max-3-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/3865.ts
-#EXTINF:-1,beIN-SPORTS-Max-4-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/3866.ts
-#EXTINF:-1,beIN-SPORTS-Max-1-SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/14397.ts
-#EXTINF:-1,beIN-SPORTS-Max-2-SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/14398.ts
-#EXTINF:-1,beIN-SPORTS-Max-3-SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/14399.ts
-#EXTINF:-1,beIN-SPORTS-Max-4-SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/14400.ts
-#EXTINF:-1,beIN-SPORTS-HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/3867.ts
-#EXTINF:-1,beIN-SPORTS-1HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2270.ts
-#EXTINF:-1,bein1-hd-v2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10543.ts
-#EXTINF:-1,bein1-hd-v3
-http://best-servers.xyz:8000/live/kristian02/kristian02/10545.ts
-#EXTINF:-1,bein1-sd-v2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10544.ts
-#EXTINF:-1,beIN-SPORTS-1SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/8471.ts
-#EXTINF:-1,beIN-SPORTS-1SDV2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10589.ts
-#EXTINF:-1,beIN-SPORTS-2HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2271.ts
-#EXTINF:-1,beIN-SPORTS-2SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/8472.ts
-#EXTINF:-1,beIN-SPORTS-2SDV2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10588.ts
-#EXTINF:-1,beIN-SPORTS-3HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2272.ts
-#EXTINF:-1,beIN-SPORTS-3SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/8539.ts
-#EXTINF:-1,beIN-SPORTS-3SDV2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10586.ts
-#EXTINF:-1,beIN-SPORTS-4HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2273.ts
-#EXTINF:-1,beIN-SPORTS-4SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/8690.ts
-#EXTINF:-1,beIN-SPORTS-4SDV2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10585.ts
-#EXTINF:-1,beIN-SPORTS-5HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2274.ts
-#EXTINF:-1,beIN-SPORTS-5SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/8689.ts
-#EXTINF:-1,beIN-SPORTS-5SDV2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10587.ts
-#EXTINF:-1,beIN-SPORTS-6HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2275.ts
-#EXTINF:-1,beIN-SPORTS-6SD
-http://best-servers.xyz:8000/live/kristian02/kristian02/9984.ts
-#EXTINF:-1,beIN-SPORTS-6SDV2
-http://best-servers.xyz:8000/live/kristian02/kristian02/10584.ts
-#EXTINF:-1,beIN-SPORTS-7HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2276.ts
-#EXTINF:-1,beIN-SPORTS-8HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2277.ts
-#EXTINF:-1,beIN-SPORTS-9HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2278.ts
-#EXTINF:-1,beIN-SPORTS-10HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2279.ts
-#EXTINF:-1,beIN-SPORTS-11HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2280.ts
-#EXTINF:-1,beIN-SPORTS-12HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/2281.ts
-#EXTINF:-1,beIN-SPORTS-1-H265
-http://best-servers.xyz:8000/live/kristian02/kristian02/9935.ts
-#EXTINF:-1,beIN-SPORTS-2-H265
-http://best-servers.xyz:8000/live/kristian02/kristian02/9940.ts
-#EXTINF:-1,beIN-SPORTS-3-H265
-http://best-servers.xyz:8000/live/kristian02/kristian02/9939.ts
-#EXTINF:-1,beIN-SPORTS-4-H265
-http://best-servers.xyz:8000/live/kristian02/kristian02/9938.ts
-#EXTINF:-1,beIN-SPORTS-5-H265
-http://best-servers.xyz:8000/live/kristian02/kristian02/9937.ts
-#EXTINF:-1,beIN-SPORTS-6-H265
-http://best-servers.xyz:8000/live/kristian02/kristian02/3945.ts
-#EXTINF:-1,osn-Discovery_Family_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/4571.ts
-#EXTINF:-1,osn-Movies_First_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/4596.ts
-#EXTINF:-1,osn-Discovery_IDX_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/4573.ts
-#EXTINF:-1,osn-ALYOUM
-http://best-servers.xyz:8000/live/kristian02/kristian02/2289.ts
-#EXTINF:-1,osn-Movies_Action_HD_2
-http://best-servers.xyz:8000/live/kristian02/kristian02/4590.ts
-#EXTINF:-1,osn-CINEMA_1
-http://best-servers.xyz:8000/live/kristian02/kristian02/2292.ts
-#EXTINF:-1,osn-H2_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/4583.ts
-#EXTINF:-1,osn-History_Channel_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/4584.ts
-#EXTINF:-1,osn-Star_Movie_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/7294.ts
-#EXTINF:-1,osn-Syfy_HD
-http://best-servers.xyz:8000/live/kristian02/kristian02/7298.ts
-#EXTINF:-1,osn-ALSAFWA
-http://best-servers.xyz:8000/live/kristian02/kristian02/2288.ts
+#EXTM3U
+#EXTINF:-1,▬ Arab Countries [ARB] ▬
+http://clientportal.link:80/live/Petko/123456/16505.ts
+#EXTINF:-1,2M Monde MA
+http://clientportal.link:80/live/Petko/123456/6077.ts
+#EXTINF:-1,7Besha ARB
+http://clientportal.link:80/live/Petko/123456/10357.ts
+#EXTINF:-1,Jordan Sport JO
+http://clientportal.link:80/live/Petko/123456/8769.ts
+#EXTINF:-1,Sharjah TV AE
+http://clientportal.link:80/live/Petko/123456/15415.ts
+#EXTINF:-1,Alsharqiya TV AE
+http://clientportal.link:80/live/Petko/123456/15407.ts
+#EXTINF:-1,Abu Dhabi Drama AE
+http://clientportal.link:80/live/Petko/123456/10360.ts
+#EXTINF:-1,Abu Dhabi TV AE
+http://clientportal.link:80/live/Petko/123456/7994.ts
+#EXTINF:-1,Aden TV YE
+http://clientportal.link:80/live/Petko/123456/6274.ts
+#EXTINF:-1,Afrah TV EG
+http://clientportal.link:80/live/Petko/123456/10397.ts
+#EXTINF:-1,Aghani Aghani TV LB
+http://clientportal.link:80/live/Petko/123456/10362.ts
+#EXTINF:-1, Ajyal TV SA
+http://clientportal.link:80/live/Petko/123456/8049.ts
+#EXTINF:-1,Al-Fady TV ARB
+http://clientportal.link:80/live/Petko/123456/21121.ts
+#EXTINF:-1,Al Aoula HD MA
+http://clientportal.link:80/live/Petko/123456/15418.ts
+#EXTINF:-1,Al Aoula Middle East MA
+http://clientportal.link:80/live/Petko/123456/15403.ts
+#EXTINF:-1,Al Arabiya HD AE
+http://clientportal.link:80/live/Petko/123456/15404.ts
+#EXTINF:-1,Al Hadath News AE
+http://clientportal.link:80/live/Petko/123456/6290.ts
+#EXTINF:-1,Al Bait Baitak Cinema ARB
+http://clientportal.link:80/live/Petko/123456/5756.ts
+#EXTINF:-1,Al Kass Four HD QA
+http://clientportal.link:80/live/Petko/123456/10386.ts
+#EXTINF:-1,Alarabiya Al Hadath AE
+http://clientportal.link:80/live/Petko/123456/10352.ts
+#EXTINF:-1,Al Hayat EG
+http://clientportal.link:80/live/Petko/123456/10358.ts
+#EXTINF:-1,Al Hayat 2 EG
+http://clientportal.link:80/live/Petko/123456/10359.ts
+#EXTINF:-1,Al-Iraqiya News IQ
+http://clientportal.link:80/live/Petko/123456/10375.ts
+#EXTINF:-1,Al Jadeed Sat LB
+http://clientportal.link:80/live/Petko/123456/5775.ts
+#EXTINF:-1,Al Jazeera International QA
+http://clientportal.link:80/live/Petko/123456/10356.ts
+#EXTINF:-1,Aljazeera Mubasher QA
+http://clientportal.link:80/live/Petko/123456/10354.ts
+#EXTINF:-1,Al Kass One HD QA
+http://clientportal.link:80/live/Petko/123456/6282.ts
+#EXTINF:-1,Al Kass Two HD QA
+http://clientportal.link:80/live/Petko/123456/6283.ts
+#EXTINF:-1,Al Maghribia MA
+http://clientportal.link:80/live/Petko/123456/6079.ts
+#EXTINF:-1,Al-Manar TV LB
+http://clientportal.link:80/live/Petko/123456/8035.ts
+#EXTINF:-1,Al Mayadeen TV LB
+http://clientportal.link:80/live/Petko/123456/8038.ts
+#EXTINF:-1, Al-Nahar Drama EG
+http://clientportal.link:80/live/Petko/123456/5757.ts
+#EXTINF:-1,Alquds Satellite Channel LB
+http://clientportal.link:80/live/Petko/123456/10363.ts
+#EXTINF:-1,Al Rahma EG
+http://clientportal.link:80/live/Petko/123456/10390.ts
+#EXTINF:-1,Al Rayyan QA
+http://clientportal.link:80/live/Petko/123456/20211.ts
+#EXTINF:-1,Alremas TV ARB
+http://clientportal.link:80/live/Petko/123456/10382.ts
+#EXTINF:-1,Arabica TV LB
+http://clientportal.link:80/live/Petko/123456/19619.ts
+#EXTINF:-1,Sharjah Sports AE
+http://clientportal.link:80/live/Petko/123456/5779.ts
+#EXTINF:-1,Laayoune TV MA
+http://clientportal.link:80/live/Petko/123456/10759.ts
+#EXTINF:-1,Algérie 4 DZ
+http://clientportal.link:80/live/Petko/123456/10389.ts
+#EXTINF:-1,Aljazeera Documentary QA
+http://clientportal.link:80/live/Petko/123456/10355.ts
+#EXTINF:-1,Athaqafia MA
+http://clientportal.link:80/live/Petko/123456/10760.ts
+#EXTINF:-1,Arryadia MA
+http://clientportal.link:80/live/Petko/123456/10762.ts
+#EXTINF:-1,Assadissa MA
+http://clientportal.link:80/live/Petko/123456/10761.ts
+#EXTINF:-1,Attessia TV TN
+http://clientportal.link:80/live/Petko/123456/5773.ts
+#EXTINF:-1,B4U Aflam AE
+http://clientportal.link:80/live/Petko/123456/8462.ts
+#EXTINF:-1,BBC Arabic ARB
+http://clientportal.link:80/live/Petko/123456/6286.ts
+#EXTINF:-1,Belody Aflam ARB
+http://clientportal.link:80/live/Petko/123456/8463.ts
+#EXTINF:-1,Beur TV ARB
+http://clientportal.link:80/live/Petko/123456/10374.ts
+#EXTINF:-1,CBC EG
+http://clientportal.link:80/live/Petko/123456/5760.ts
+#EXTINF:-1,CBC Drama EG
+http://clientportal.link:80/live/Petko/123456/5763.ts
+#EXTINF:-1,CBC Extra EG
+http://clientportal.link:80/live/Petko/123456/5761.ts
+#EXTINF:-1,CBC Sofra EG
+http://clientportal.link:80/live/Petko/123456/5762.ts
+#EXTINF:-1,Cairo Cinema EG
+http://clientportal.link:80/live/Petko/123456/5758.ts
+#EXTINF:-1,Cairo Drama EG
+http://clientportal.link:80/live/Petko/123456/5759.ts
+#EXTINF:-1,Canal Algérie DZ
+http://clientportal.link:80/live/Petko/123456/10383.ts
+#EXTINF:-1,Cartoon Network ARB
+http://clientportal.link:80/live/Petko/123456/5771.ts
+#EXTINF:-1,Chada TV MA
+http://clientportal.link:80/live/Petko/123456/21897.ts
+#EXTINF:-1,Cima ARB
+http://clientportal.link:80/live/Petko/123456/8036.ts
+#EXTINF:-1,El Djazairia One DZ
+http://clientportal.link:80/live/Petko/123456/10764.ts
+#EXTINF:-1,DMC Drama EG
+http://clientportal.link:80/live/Petko/123456/16371.ts
+#EXTINF:-1,DMC HD EG
+http://clientportal.link:80/live/Petko/123456/16370.ts
+#EXTINF:-1,DMC Sports EG
+http://clientportal.link:80/live/Petko/123456/16372.ts
+#EXTINF:-1,Dream 2 EG
+http://clientportal.link:80/live/Petko/123456/5755.ts
+#EXTINF:-1,Dubai One AE
+http://clientportal.link:80/live/Petko/123456/7988.ts
+#EXTINF:-1,Dubai Racing HD AE
+http://clientportal.link:80/live/Petko/123456/18331.ts
+#EXTINF:-1,Dubai Sport 1 AE
+http://clientportal.link:80/live/Petko/123456/7992.ts
+#EXTINF:-1,Dubai Sports 3 AE
+http://clientportal.link:80/live/Petko/123456/15413.ts
+#EXTINF:-1,Dubai TV AE
+http://clientportal.link:80/live/Petko/123456/15398.ts
+#EXTINF:-1,Dubai Zaman AE
+http://clientportal.link:80/live/Petko/123456/6270.ts
+#EXTINF:-1,Dzair News DZ
+http://clientportal.link:80/live/Petko/123456/10373.ts
+#EXTINF:-1,Dzair TV DZ
+http://clientportal.link:80/live/Petko/123456/10372.ts
+#EXTINF:-1,Benna TV DZ
+http://clientportal.link:80/live/Petko/123456/10380.ts
+#EXTINF:-1, Echorouk TV News DZ
+http://clientportal.link:80/live/Petko/123456/10379.ts
+#EXTINF:-1,Echorouk TV DZ
+http://clientportal.link:80/live/Petko/123456/10763.ts
+#EXTINF:-1,Al Janoubiya TV TN
+http://clientportal.link:80/live/Petko/123456/6281.ts
+#EXTINF:-1,El-Heddaf TV ARB
+http://clientportal.link:80/live/Petko/123456/10385.ts
+#EXTINF:-1,Elhiwar Ettounsi TV TN
+http://clientportal.link:80/live/Petko/123456/6266.ts
+#EXTINF:-1,Al Hiwar TV ARB
+http://clientportal.link:80/live/Petko/123456/10772.ts
+#EXTINF:-1,Ennahar TV DZ
+http://clientportal.link:80/live/Petko/123456/8466.ts
+#EXTINF:-1,FOX Action Movies HD ARB
+http://clientportal.link:80/live/Petko/123456/15114.ts
+#EXTINF:-1,FOX Family Movies HD ARB
+http://clientportal.link:80/live/Petko/123456/15115.ts
+#EXTINF:-1, Funoon TV KW
+http://clientportal.link:80/live/Petko/123456/5777.ts
+#EXTINF:-1, Future TV Network LB
+http://clientportal.link:80/live/Petko/123456/6277.ts
+#EXTINF:-1,Hannibal TV TN
+http://clientportal.link:80/live/Petko/123456/10014.ts
+#EXTINF:-1,Iqraa Arabic KW
+http://clientportal.link:80/live/Petko/123456/6279.ts
+#EXTINF:-1,Jordan TV JO
+http://clientportal.link:80/live/Petko/123456/15410.ts
+#EXTINF:-1,KBC DZ
+http://clientportal.link:80/live/Petko/123456/10387.ts
+#EXTINF:-1,KTV 1 KW
+http://clientportal.link:80/live/Petko/123456/15405.ts
+#EXTINF:-1,NourSat LB
+http://clientportal.link:80/live/Petko/123456/20327.ts
+#EXTINF:-1,Karameesh JO
+http://clientportal.link:80/live/Petko/123456/10376.ts
+#EXTINF:-1,M Tunisia TN
+http://clientportal.link:80/live/Petko/123456/8043.ts
+#EXTINF:-1,KTV Sport KW
+http://clientportal.link:80/live/Petko/123456/10370.ts
+#EXTINF:-1,LBC Sat LE
+http://clientportal.link:80/live/Petko/123456/5753.ts
+#EXTINF:-1,LDC LB
+http://clientportal.link:80/live/Petko/123456/16267.ts
+#EXTINF:-1,Libya Al Ahrar LY
+http://clientportal.link:80/live/Petko/123456/10396.ts
+#EXTINF:-1,Libya Elwatan LY
+http://clientportal.link:80/live/Petko/123456/10395.ts
+#EXTINF:-1,Libya's Channel LY
+http://clientportal.link:80/live/Petko/123456/10393.ts
+#EXTINF:-1,Libya 1 LY
+http://clientportal.link:80/live/Petko/123456/10392.ts
+#EXTINF:-1,Libya Alrasmia Channel LY
+http://clientportal.link:80/live/Petko/123456/10391.ts
+#EXTINF:-1,Makkah TV SA
+http://clientportal.link:80/live/Petko/123456/16609.ts
+#EXTINF:-1,MBC HD AE
+http://clientportal.link:80/live/Petko/123456/12882.ts
+#EXTINF:-1,MBC 2 HD AE
+http://clientportal.link:80/live/Petko/123456/12881.ts
+#EXTINF:-1,MBC 3 HD AE
+http://clientportal.link:80/live/Petko/123456/12880.ts
+#EXTINF:-1,MBC 4 AE
+http://clientportal.link:80/live/Petko/123456/5710.ts
+#EXTINF:-1,MBC Action AE
+http://clientportal.link:80/live/Petko/123456/12885.ts
+#EXTINF:-1,MBC Bollywood AE
+http://clientportal.link:80/live/Petko/123456/5716.ts
+#EXTINF:-1,MBC Drama AE
+http://clientportal.link:80/live/Petko/123456/12884.ts
+#EXTINF:-1,MBC + Drama AE
+http://clientportal.link:80/live/Petko/123456/18051.ts
+#EXTINF:-1,MBC Drama +2 AE
+http://clientportal.link:80/live/Petko/123456/17132.ts
+#EXTINF:-1,MBC Max AE
+http://clientportal.link:80/live/Petko/123456/12883.ts
+#EXTINF:-1,MBC Maser EG
+http://clientportal.link:80/live/Petko/123456/5712.ts
+#EXTINF:-1,MBC Maser 2 EG
+http://clientportal.link:80/live/Petko/123456/5715.ts
+#EXTINF:-1,MTV Lebanon LB
+http://clientportal.link:80/live/Petko/123456/5781.ts
+#EXTINF:-1,Mazzika EG
+http://clientportal.link:80/live/Petko/123456/5776.ts
+#EXTINF:-1,Medi 1 TV MA
+http://clientportal.link:80/live/Petko/123456/6080.ts
+#EXTINF:-1,Mekameleen TV EG
+http://clientportal.link:80/live/Petko/123456/15400.ts
+#EXTINF:-1,Mickey Channel ARB
+http://clientportal.link:80/live/Petko/123456/6271.ts
+#EXTINF:-1,Music Haneen IQ
+http://clientportal.link:80/live/Petko/123456/8048.ts
+#EXTINF:-1,Music Al Arrab ARB
+http://clientportal.link:80/live/Petko/123456/10364.ts
+#EXTINF:-1,NBN HD LB
+http://clientportal.link:80/live/Petko/123456/8468.ts
+#EXTINF:-1,National Geographic Abu Dhabi AE
+http://clientportal.link:80/live/Petko/123456/12892.ts
+#EXTINF:-1,Nessma TN
+http://clientportal.link:80/live/Petko/123456/6267.ts
+#EXTINF:-1,Nile Cinema EG
+http://clientportal.link:80/live/Petko/123456/5764.ts
+#EXTINF:-1,Nile Comedy EG
+http://clientportal.link:80/live/Petko/123456/5767.ts
+#EXTINF:-1,Nile Culture EG
+http://clientportal.link:80/live/Petko/123456/6291.ts
+#EXTINF:-1,Nile Drama EG
+http://clientportal.link:80/live/Petko/123456/5768.ts
+#EXTINF:-1,Nile Family EG
+http://clientportal.link:80/live/Petko/123456/6280.ts
+#EXTINF:-1,Nile Life EG
+http://clientportal.link:80/live/Petko/123456/5780.ts
+#EXTINF:-1,Nile Sport EG
+http://clientportal.link:80/live/Petko/123456/8037.ts
+#EXTINF:-1,Noor Dubai TV AE
+http://clientportal.link:80/live/Petko/123456/7991.ts
+#EXTINF:-1,Oman TV OM
+http://clientportal.link:80/live/Petko/123456/15402.ts
+#EXTINF:-1,On E EG
+http://clientportal.link:80/live/Petko/123456/10401.ts
+#EXTINF:-1,On Live EG
+http://clientportal.link:80/live/Petko/123456/10402.ts
+#EXTINF:-1,Abu Dhabi Sports 1 HD AE
+http://clientportal.link:80/live/Petko/123456/16435.ts
+#EXTINF:-1,Abu Dhabi Sports 2 HD AE
+http://clientportal.link:80/live/Petko/123456/16436.ts
+#EXTINF:-1,Series Channel HD AE
+http://clientportal.link:80/live/Petko/123456/19046.ts
+#EXTINF:-1,On Sport EG
+http://clientportal.link:80/live/Petko/123456/17738.ts
+#EXTINF:-1,OSN Animal Planet HD AE
+http://clientportal.link:80/live/Petko/123456/5751.ts
+#EXTINF:-1,OSN Movies Box Office 2 HD AE
+http://clientportal.link:80/live/Petko/123456/12836.ts
+#EXTINF:-1,OSN Movies Box Office 3 HD AE
+http://clientportal.link:80/live/Petko/123456/12835.ts
+#EXTINF:-1,OSN Discovery Channel HD AE
+http://clientportal.link:80/live/Petko/123456/5747.ts
+#EXTINF:-1,OSN Investigation Discovery HD AE
+http://clientportal.link:80/live/Petko/123456/13722.ts
+#EXTINF:-1,OSN Discovery Science HD AE
+http://clientportal.link:80/live/Petko/123456/12848.ts
+#EXTINF:-1,OSN E!  HD AE
+http://clientportal.link:80/live/Petko/123456/13710.ts
+#EXTINF:-1,beIN Fatafeat HD ARB
+http://clientportal.link:80/live/Petko/123456/13713.ts
+#EXTINF:-1,OSN Fine Living AE
+http://clientportal.link:80/live/Petko/123456/13719.ts
+#EXTINF:-1,OSN FOX News AE
+http://clientportal.link:80/live/Petko/123456/13718.ts
+#EXTINF:-1,OSN Movies Action +2 HD AE
+http://clientportal.link:80/live/Petko/123456/13732.ts
+#EXTINF:-1,OSN Movies Action HD AE
+http://clientportal.link:80/live/Petko/123456/5722.ts
+#EXTINF:-1,OSN Movies Comedy HD AE
+http://clientportal.link:80/live/Petko/123456/5724.ts
+#EXTINF:-1,OSN Movies Drama HD AE
+http://clientportal.link:80/live/Petko/123456/12840.ts
+#EXTINF:-1,OSN Movies Festival HD AE
+http://clientportal.link:80/live/Petko/123456/5728.ts
+#EXTINF:-1,OSN Movies HD AE
+http://clientportal.link:80/live/Petko/123456/5721.ts
+#EXTINF:-1,OSN On Demand AE
+http://clientportal.link:80/live/Petko/123456/16462.ts
+#EXTINF:-1,OSN National Geographic Wild HD AE
+http://clientportal.link:80/live/Petko/123456/12829.ts
+#EXTINF:-1,OSN AD National Geographic HD AE
+http://clientportal.link:80/live/Petko/123456/13717.ts
+#EXTINF:-1,OSN Outdoor HD AE
+http://clientportal.link:80/live/Petko/123456/13708.ts
+#EXTINF:-1,OSN Sports Cricket HD AE
+http://clientportal.link:80/live/Petko/123456/19957.ts
+#EXTINF:-1,OSN Sports 1 Action HD AE
+http://clientportal.link:80/live/Petko/123456/13728.ts
+#EXTINF:-1,OSN Sports 2 Action HD AE
+http://clientportal.link:80/live/Petko/123456/13729.ts
+#EXTINF:-1,OSN Syfy HD AE
+http://clientportal.link:80/live/Petko/123456/12910.ts
+#EXTINF:-1,OSN Ya Hala! Cinema HD AE
+http://clientportal.link:80/live/Petko/123456/12838.ts
+#EXTINF:-1,OSN Ya Hala! HD AE
+http://clientportal.link:80/live/Petko/123456/12850.ts
+#EXTINF:-1,OSN AMC AE
+http://clientportal.link:80/live/Petko/123456/19030.ts
+#EXTINF:-1,OSN Movies +2 HD AE
+http://clientportal.link:80/live/Petko/123456/19043.ts
+#EXTINF:-1,OSN Movies Box Office 1 HD AE
+http://clientportal.link:80/live/Petko/123456/12837.ts
+#EXTINF:-1,OSN Movies Thriller +2 AE
+http://clientportal.link:80/live/Petko/123456/19044.ts
+#EXTINF:-1,OSN My Cinema AE
+http://clientportal.link:80/live/Petko/123456/19031.ts
+#EXTINF:-1,OSN Series Comedy +2h AE
+http://clientportal.link:80/live/Petko/123456/19047.ts
+#EXTINF:-1,OSN Ten Cricket AE
+http://clientportal.link:80/live/Petko/123456/19164.ts
+#EXTINF:-1,OTV LB
+http://clientportal.link:80/live/Petko/123456/8467.ts
+#EXTINF:-1,Orient News AE
+http://clientportal.link:80/live/Petko/123456/10400.ts
+#EXTINF:-1,OSN WWE Network HD AE
+http://clientportal.link:80/live/Petko/123456/16403.ts
+#EXTINF:-1,Palestine Al Yawm LB
+http://clientportal.link:80/live/Petko/123456/10361.ts
+#EXTINF:-1,Panorama Drama 2 EG
+http://clientportal.link:80/live/Petko/123456/8042.ts
+#EXTINF:-1,Panorama Drama EG
+http://clientportal.link:80/live/Petko/123456/8041.ts
+#EXTINF:-1,Panorama Film EG
+http://clientportal.link:80/live/Petko/123456/6285.ts
+#EXTINF:-1,Panorama Food EG
+http://clientportal.link:80/live/Petko/123456/6284.ts
+#EXTINF:-1,Qatar TV QA
+http://clientportal.link:80/live/Petko/123456/15408.ts
+#EXTINF:-1,Rotana Aflam SA
+http://clientportal.link:80/live/Petko/123456/5788.ts
+#EXTINF:-1,Rotana Aflam HD SA
+http://clientportal.link:80/live/Petko/123456/12891.ts
+#EXTINF:-1,Rotana Cinema SA
+http://clientportal.link:80/live/Petko/123456/5789.ts
+#EXTINF:-1,Rotana Classic SA
+http://clientportal.link:80/live/Petko/123456/12889.ts
+#EXTINF:-1,Rotana Clip SA
+http://clientportal.link:80/live/Petko/123456/5791.ts
+#EXTINF:-1,Rotana Khalejia HD SA
+http://clientportal.link:80/live/Petko/123456/12888.ts
+#EXTINF:-1,Rotana Masriya HD SA
+http://clientportal.link:80/live/Petko/123456/12887.ts
+#EXTINF:-1,Rotana Music HD SA
+http://clientportal.link:80/live/Petko/123456/12886.ts
+#EXTINF:-1,RT Arabic HD ARB
+http://clientportal.link:80/live/Petko/123456/21528.ts
+#EXTINF:-1,Saudi TV SA
+http://clientportal.link:80/live/Petko/123456/15406.ts
+#EXTINF:-1,Sada Elbalad Drama EG
+http://clientportal.link:80/live/Petko/123456/5769.ts
+#EXTINF:-1,Sama Dubai AE
+http://clientportal.link:80/live/Petko/123456/7990.ts
+#EXTINF:-1,Samira TV DZ
+http://clientportal.link:80/live/Petko/123456/10351.ts
+#EXTINF:-1,Seevii Prime 1 HD SA
+http://clientportal.link:80/live/Petko/123456/15116.ts
+#EXTINF:-1,Space Toon 1 AE
+http://clientportal.link:80/live/Petko/123456/10398.ts
+#EXTINF:-1,Star Cinema 1 ARB
+http://clientportal.link:80/live/Petko/123456/8050.ts
+#EXTINF:-1,Star Cinema 2 ARB
+http://clientportal.link:80/live/Petko/123456/8051.ts
+#EXTINF:-1,Sudan Drama SD
+http://clientportal.link:80/live/Petko/123456/7993.ts
+#EXTINF:-1,Sudan TV SD
+http://clientportal.link:80/live/Petko/123456/15395.ts
+#EXTINF:-1,Syrian Satellite Channel SY
+http://clientportal.link:80/live/Petko/123456/15101.ts
+#EXTINF:-1,Syria Drama SY
+http://clientportal.link:80/live/Petko/123456/15110.ts
+#EXTINF:-1,Syrian Educational TV SY
+http://clientportal.link:80/live/Petko/123456/15111.ts
+#EXTINF:-1,Syria Medical SY
+http://clientportal.link:80/live/Petko/123456/15113.ts
+#EXTINF:-1,Nour El-Sham SY
+http://clientportal.link:80/live/Petko/123456/15104.ts
+#EXTINF:-1,Sama TV SY
+http://clientportal.link:80/live/Petko/123456/15106.ts
+#EXTINF:-1,Tamazight MA
+http://clientportal.link:80/live/Petko/123456/10371.ts
+#EXTINF:-1,Tayba TV SD
+http://clientportal.link:80/live/Petko/123456/15409.ts
+#EXTINF:-1,Télé Liban LB
+http://clientportal.link:80/live/Petko/123456/20468.ts
+#EXTINF:-1,Toyor Aljanah JO
+http://clientportal.link:80/live/Petko/123456/10353.ts
+#EXTINF:-1,Tok Tok Aflam EG
+http://clientportal.link:80/live/Petko/123456/6268.ts
+#EXTINF:-1,Tok Tok Cinema EG
+http://clientportal.link:80/live/Petko/123456/6273.ts
+#EXTINF:-1,Tunisna TV TN
+http://clientportal.link:80/live/Petko/123456/10769.ts
+#EXTINF:-1,Wanasah AE
+http://clientportal.link:80/live/Petko/123456/6278.ts
+#EXTINF:-1,Watania 1 TN
+http://clientportal.link:80/live/Petko/123456/10767.ts
+#EXTINF:-1,Watania 2 TN
+http://clientportal.link:80/live/Petko/123456/10768.ts
+#EXTINF:-1,Yas TV AE
+http://clientportal.link:80/live/Petko/123456/15397.ts
+#EXTINF:-1,ZAD TV SA
+http://clientportal.link:80/live/Petko/123456/15414.ts
+#EXTINF:-1,Zitouna TV TN
+http://clientportal.link:80/live/Petko/123456/10770.ts
+#EXTINF:-1,Zee Aflam IN
+http://clientportal.link:80/live/Petko/123456/5770.ts
+#EXTINF:-1,Zee Alwan IN
+http://clientportal.link:80/live/Petko/123456/8461.ts
+#EXTINF:-1,Zitouna Hedaya TN
+http://clientportal.link:80/live/Petko/123456/10015.ts
+#EXTINF:-1,Zweina Baladna JO
+http://clientportal.link:80/live/Petko/123456/8040.ts
+#EXTINF:-1,ART Aflam 1 SA
+http://clientportal.link:80/live/Petko/123456/5785.ts
+#EXTINF:-1,ART Aflam 2 SA
+http://clientportal.link:80/live/Petko/123456/5786.ts
+#EXTINF:-1,ART Cinema SA
+http://clientportal.link:80/live/Petko/123456/5782.ts
+#EXTINF:-1,ART Hekayat 1 SA
+http://clientportal.link:80/live/Petko/123456/5783.ts
+#EXTINF:-1,ART Hekayat 2 SA
+http://clientportal.link:80/live/Petko/123456/5784.ts
+#EXTINF:-1,beIN Jeem TV ARB
+http://clientportal.link:80/live/Petko/123456/15767.ts
+#EXTINF:-1,Al Jazeera News Arabic QA
+http://clientportal.link:80/live/Petko/123456/16579.ts
+#EXTINF:-1,Wesal TV ARB
+http://clientportal.link:80/live/Petko/123456/16824.ts
+#EXTINF:-1,Elsharq EG
+http://clientportal.link:80/live/Petko/123456/16825.ts
+#EXTINF:-1,Al Aan TV AE
+http://clientportal.link:80/live/Petko/123456/16826.ts
+#EXTINF:-1,Melody Classic EG
+http://clientportal.link:80/live/Petko/123456/16840.ts
+#EXTINF:-1,Saudi 2 SA
+http://clientportal.link:80/live/Petko/123456/17133.ts
+#EXTINF:-1,Saudi 24 SA
+http://clientportal.link:80/live/Petko/123456/17134.ts
+#EXTINF:-1,Saudi Sport 1 SA
+http://clientportal.link:80/live/Petko/123456/17135.ts
+#EXTINF:-1,Saudi Sport 2 SA
+http://clientportal.link:80/live/Petko/123456/17136.ts
+#EXTINF:-1,Suryoyo Sat SY
+http://clientportal.link:80/live/Petko/123456/17287.ts
+#EXTINF:-1,Aljazeera English HD QA
+http://clientportal.link:80/live/Petko/123456/17298.ts
+#EXTINF:-1,Yemen TV YE
+http://clientportal.link:80/live/Petko/123456/17299.ts
+#EXTINF:-1,Nour TV AE
+http://clientportal.link:80/live/Petko/123456/17306.ts
+#EXTINF:-1,Al Aoula Maroc MA
+http://clientportal.link:80/live/Petko/123456/17314.ts
+#EXTINF:-1,Al Magharibia DZ
+http://clientportal.link:80/live/Petko/123456/17315.ts
+#EXTINF:-1,Al Masriyah EG
+http://clientportal.link:80/live/Petko/123456/17317.ts
+#EXTINF:-1,Kuwait TV HD KW
+http://clientportal.link:80/live/Petko/123456/17312.ts
+#EXTINF:-1,ENTV DZ
+http://clientportal.link:80/live/Petko/123456/21153.ts
+#EXTINF:-1,Algérie 5 DZ
+http://clientportal.link:80/live/Petko/123456/17322.ts
+#EXTINF:-1,Bahrain TV HD BA
+http://clientportal.link:80/live/Petko/123456/17311.ts
+#EXTINF:-1,Toyor Baby JO
+http://clientportal.link:80/live/Petko/123456/17497.ts
+#EXTINF:-1,Sada Elbalad 2 EG
+http://clientportal.link:80/live/Petko/123456/17807.ts
+#EXTINF:-1,Sada Elbalad EG
+http://clientportal.link:80/live/Petko/123456/17806.ts
+#EXTINF:-1,OSN Al Safwa HD AE
+http://clientportal.link:80/live/Petko/123456/18292.ts
+#EXTINF:-1,OSN Al Yawm HD AE
+http://clientportal.link:80/live/Petko/123456/18291.ts
+#EXTINF:-1,OSN Fashion TV HD AE
+http://clientportal.link:80/live/Petko/123456/18304.ts
+#EXTINF:-1,OSN Food Network HD AE
+http://clientportal.link:80/live/Petko/123456/18305.ts
+#EXTINF:-1,OSN MTV India AE
+http://clientportal.link:80/live/Petko/123456/18320.ts
+#EXTINF:-1,OSN Nickelodeon HD AE
+http://clientportal.link:80/live/Petko/123456/18311.ts
+#EXTINF:-1,OSN Series Comedy HD AE
+http://clientportal.link:80/live/Petko/123456/18297.ts
+#EXTINF:-1,OSN Series HD AE
+http://clientportal.link:80/live/Petko/123456/18296.ts
+#EXTINF:-1,OSN Ya Hala Al Oula HD LB
+http://clientportal.link:80/live/Petko/123456/18289.ts
+#EXTINF:-1,Suroyo TV SY
+http://clientportal.link:80/live/Petko/123456/20209.ts
+#EXTINF:-1,Cinema 2 HD AE
+http://clientportal.link:80/live/Petko/123456/18295.ts
+#EXTINF:-1,ERI TV 1 ER
+http://clientportal.link:80/live/Petko/123456/18227.ts
+#EXTINF:-1,Carthage+ TN
+http://clientportal.link:80/live/Petko/123456/19665.ts
+#EXTINF:-1,OSN Movies Thriller HD AE
+http://clientportal.link:80/live/Petko/123456/18287.ts
+#EXTINF:-1,OSN Movies Kids HD AE
+http://clientportal.link:80/live/Petko/123456/12844.ts
+#EXTINF:-1,OSN First HBO HD AE
+http://clientportal.link:80/live/Petko/123456/18299.ts
+#EXTINF:-1,Al-Iraqiya Sport IQ
+http://clientportal.link:80/live/Petko/123456/20425.ts
+#EXTINF:-1,Al-Iraqiya 2 IQ
+http://clientportal.link:80/live/Petko/123456/17316.ts
+#EXTINF:-1,OSN Comedy Central HD AE
+http://clientportal.link:80/live/Petko/123456/18303.ts
+#EXTINF:-1,OSN Disney Channel HD AE
+http://clientportal.link:80/live/Petko/123456/12830.ts
+#EXTINF:-1,OSN Disney XD AE
+http://clientportal.link:80/live/Petko/123456/19049.ts
+#EXTINF:-1,OSN Fann AE
+http://clientportal.link:80/live/Petko/123456/19029.ts
+#EXTINF:-1,OSN History Channel HD AE
+http://clientportal.link:80/live/Petko/123456/12842.ts
+#EXTINF:-1,OSN Movies First +2 HD AE
+http://clientportal.link:80/live/Petko/123456/18286.ts
+#EXTINF:-1,OSN Movies First HD AE
+http://clientportal.link:80/live/Petko/123456/12845.ts
+#EXTINF:-1,OSN Music Now AE
+http://clientportal.link:80/live/Petko/123456/18323.ts
+#EXTINF:-1,OSN Nat Geo Music HD AE
+http://clientportal.link:80/live/Petko/123456/18306.ts
+#EXTINF:-1,OSN National Geographic HD AE
+http://clientportal.link:80/live/Petko/123456/19048.ts
+#EXTINF:-1,OSN National Geographic People HD AE
+http://clientportal.link:80/live/Petko/123456/12828.ts
+#EXTINF:-1,OSN On Demand Extra AE
+http://clientportal.link:80/live/Petko/123456/13714.ts
+#EXTINF:-1,OSN Paramount Channel HD AE
+http://clientportal.link:80/live/Petko/123456/18302.ts
+#EXTINF:-1,OSN Series First HD AE
+http://clientportal.link:80/live/Petko/123456/13716.ts
+#EXTINF:-1,OSN Star Movies HD AE
+http://clientportal.link:80/live/Petko/123456/12827.ts
+#EXTINF:-1,OSN Star World HD AE
+http://clientportal.link:80/live/Petko/123456/12843.ts
+#EXTINF:-1,OSN TLC HD AE
+http://clientportal.link:80/live/Petko/123456/13712.ts
+#EXTINF:-1,OSN Baby TV AE
+http://clientportal.link:80/live/Petko/123456/18314.ts
+#EXTINF:-1,OSN Nick Jr. AE
+http://clientportal.link:80/live/Petko/123456/18310.ts
+#EXTINF:-1,MBC+ Variety AE
+http://clientportal.link:80/live/Petko/123456/19027.ts
+#EXTINF:-1,Korek TV IQ
+http://clientportal.link:80/live/Petko/123456/21526.ts
+#EXTINF:-1,Al Mawseleya IQ
+http://clientportal.link:80/live/Petko/123456/21541.ts
+#EXTINF:-1,Al Kass three HD QA
+http://clientportal.link:80/live/Petko/123456/21699.ts
+#EXTINF:-1,Series +2 HD AE
+http://clientportal.link:80/live/Petko/123456/18293.ts
+#EXTINF:-1,Télé Maroc MA
+http://clientportal.link:80/live/Petko/123456/19730.ts
+#EXTINF:-1,beIN SPORTS 1 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21934.ts
+#EXTINF:-1,beIN SPORTS 1 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21916.ts
+#EXTINF:-1,beIN SPORTS 1 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21924.ts
+#EXTINF:-1,beIN SPORTS 2 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21917.ts
+#EXTINF:-1,beIN SPORTS 2 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21925.ts
+#EXTINF:-1,beIN SPORTS 2 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21935.ts
+#EXTINF:-1,beIN SPORTS 3 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21918.ts
+#EXTINF:-1,beIN SPORTS 3 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21926.ts
+#EXTINF:-1,beIN SPORTS 3 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21936.ts
+#EXTINF:-1,beIN SPORTS 4 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21919.ts
+#EXTINF:-1,beIN SPORTS 4 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21927.ts
+#EXTINF:-1,beIN SPORTS 4 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21937.ts
+#EXTINF:-1,beIN SPORTS 5 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21920.ts
+#EXTINF:-1,beIN SPORTS 5 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21928.ts
+#EXTINF:-1,beIN SPORTS 5 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21938.ts
+#EXTINF:-1,beIN SPORTS 6 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21921.ts
+#EXTINF:-1,beIN SPORTS 6 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21929.ts
+#EXTINF:-1,beIN SPORTS 6 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21939.ts
+#EXTINF:-1,beIN SPORTS 7 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21922.ts
+#EXTINF:-1,beIN SPORTS 7 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21930.ts
+#EXTINF:-1,beIN SPORTS 7 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21940.ts
+#EXTINF:-1,beIN SPORTS 8 FHD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21923.ts
+#EXTINF:-1,beIN SPORTS 8 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21931.ts
+#EXTINF:-1,beIN SPORTS 8 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21941.ts
+#EXTINF:-1,beIN SPORTS 9 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21932.ts
+#EXTINF:-1,beIN SPORTS 9 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21942.ts
+#EXTINF:-1,beIN SPORTS 10 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21933.ts
+#EXTINF:-1,beIN SPORTS 10 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21943.ts
+#EXTINF:-1,beIN SPORTS 12 SD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21944.ts
+#EXTINF:-1,Algérie 3 (Thalitha TV) DZ
+http://clientportal.link:80/live/Petko/123456/21950.ts
+#EXTINF:-1,beIN SPORTS MAX 1 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22157.ts
+#EXTINF:-1,beIN SPORTS MAX 1 HD ARB
+http://clientportal.link:80/live/Petko/123456/22158.ts
+#EXTINF:-1,beIN SPORTS MAX 1 SD ARB
+http://clientportal.link:80/live/Petko/123456/22159.ts
+#EXTINF:-1,beIN SPORTS MAX 2 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22160.ts
+#EXTINF:-1,beIN SPORTS MAX 2 HD ARB
+http://clientportal.link:80/live/Petko/123456/22161.ts
+#EXTINF:-1,beIN SPORTS MAX 2 SD ARB
+http://clientportal.link:80/live/Petko/123456/22162.ts
+#EXTINF:-1,beIN SPORTS MAX 3 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22163.ts
+#EXTINF:-1,beIN SPORTS MAX 3 HD ARB
+http://clientportal.link:80/live/Petko/123456/22164.ts
+#EXTINF:-1,beIN SPORTS MAX 3 SD ARB
+http://clientportal.link:80/live/Petko/123456/22165.ts
+#EXTINF:-1,beIN SPORTS MAX 4 FHD ARB
+http://clientportal.link:80/live/Petko/123456/22166.ts
+#EXTINF:-1,beIN SPORTS MAX 4 HD ARB
+http://clientportal.link:80/live/Petko/123456/22167.ts
+#EXTINF:-1,beIN SPORTS MAX 4 SD ARB
+http://clientportal.link:80/live/Petko/123456/22168.ts
+
+#EXTINF:-1,=======>   Arab Countries   <=======
+http://193.200.164.171:6969/live/ismael/ismael123/7500.ts
+#EXTINF:-1,AR: Al arabia Alhadath
+http://193.200.164.171:6969/live/ismael/ismael123/550.ts
+#EXTINF:-1,AR : OSN CNBC ARABIA
+http://193.200.164.171:6969/live/ismael/ismael123/5406.ts
+#EXTINF:-1,AR: Al Arabiya
+http://193.200.164.171:6969/live/ismael/ismael123/6340.ts
+#EXTINF:-1,AR: Sky News Arabic
+http://193.200.164.171:6969/live/ismael/ismael123/556.ts
+#EXTINF:-1,AR: TRT Arabic
+http://193.200.164.171:6969/live/ismael/ismael123/553.ts
+#EXTINF:-1,AR: Tarteel
+http://193.200.164.171:6969/live/ismael/ismael123/7190.ts
+#EXTINF:-1,AR: Al Jazeera Mubasher
+http://193.200.164.171:6969/live/ismael/ismael123/999.ts
+#EXTINF:-1,AR: AL DIYAR
+http://193.200.164.171:6969/live/ismael/ismael123/7460.ts
+#EXTINF:-1,AR: AL FORATR
+http://193.200.164.171:6969/live/ismael/ismael123/7456.ts
+#EXTINF:-1,AR: AD Sports 6 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4277.ts
+#EXTINF:-1,AR: AD Sports 5 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4278.ts
+#EXTINF:-1,AR: AD Sports 4 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4279.ts
+#EXTINF:-1,AR: AD Sports 3 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4280.ts
+#EXTINF:-1,AR: 2m Maroc
+http://193.200.164.171:6969/live/ismael/ismael123/1509.ts
+#EXTINF:-1,AR: AL BASRA TV
+http://193.200.164.171:6969/live/ismael/ismael123/7454.ts
+#EXTINF:-1,AR: AL Hadath
+http://193.200.164.171:6969/live/ismael/ismael123/6341.ts
+#EXTINF:-1,AR: AL JADEED
+http://193.200.164.171:6969/live/ismael/ismael123/6757.ts
+#EXTINF:-1,AR: AL ANBAR
+http://193.200.164.171:6969/live/ismael/ismael123/7461.ts
+#EXTINF:-1,AR: AFAK
+http://193.200.164.171:6969/live/ismael/ismael123/7455.ts
+#EXTINF:-1,AR: AL IMAN TV
+http://193.200.164.171:6969/live/ismael/ismael123/7178.ts
+#EXTINF:-1,AR: AL KOFIYA
+http://193.200.164.171:6969/live/ismael/ismael123/7174.ts
+#EXTINF:-1,AR: OSN B4U Aflam
+http://193.200.164.171:6969/live/ismael/ismael123/5438.ts
+#EXTINF:-1,AR: OSN Art Aflam 2
+http://193.200.164.171:6969/live/ismael/ismael123/3378.ts
+#EXTINF:-1,AR: OSN  SKY NEWS
+http://193.200.164.171:6969/live/ismael/ismael123/5407.ts
+#EXTINF:-1,AR: Al Magharibia Two
+http://193.200.164.171:6969/live/ismael/ismael123/6615.ts
+#EXTINF:-1,AR: Al Magharibia1
+http://193.200.164.171:6969/live/ismael/ismael123/6614.ts
+#EXTINF:-1,AR: Aghanina
+http://193.200.164.171:6969/live/ismael/ismael123/6692.ts
+#EXTINF:-1,AR: AL NOUJABA
+http://193.200.164.171:6969/live/ismael/ismael123/7185.ts
+#EXTINF:-1,AR: AL MAYADEEN TV
+http://193.200.164.171:6969/live/ismael/ismael123/6759.ts
+#EXTINF:-1,AR: Al Anbar TV
+http://193.200.164.171:6969/live/ismael/ismael123/7182.ts
+#EXTINF:-1,AR: Al Aoula
+http://193.200.164.171:6969/live/ismael/ismael123/1002.ts
+#EXTINF:-1,AR: ART HEKAYAT 2
+http://193.200.164.171:6969/live/ismael/ismael123/6036.ts
+#EXTINF:-1,AR: Al-Oula
+http://193.200.164.171:6969/live/ismael/ismael123/1516.ts
+#EXTINF:-1,AR: Aden tv
+http://193.200.164.171:6969/live/ismael/ismael123/7085.ts
+#EXTINF:-1,AR: ARRIYADIA
+http://193.200.164.171:6969/live/ismael/ismael123/1003.ts
+#EXTINF:-1,AR: ART AFLAM 1
+http://193.200.164.171:6969/live/ismael/ismael123/979.ts
+#EXTINF:-1,AR: Al Falastiniah
+http://193.200.164.171:6969/live/ismael/ismael123/7176.ts
+#EXTINF:-1,AR: ART AFLAM 2
+http://193.200.164.171:6969/live/ismael/ismael123/980.ts
+#EXTINF:-1,AR: ART CINEMA
+http://193.200.164.171:6969/live/ismael/ismael123/978.ts
+#EXTINF:-1,AR: ART HEKAYAT 1
+http://193.200.164.171:6969/live/ismael/ismael123/981.ts
+#EXTINF:-1,AR: Al Ghadeer
+http://193.200.164.171:6969/live/ismael/ismael123/7180.ts
+#EXTINF:-1,AR: AL RAFIDEN
+http://193.200.164.171:6969/live/ismael/ismael123/7452.ts
+#EXTINF:-1,AR: Al Aqsa
+http://193.200.164.171:6969/live/ismael/ismael123/7059.ts
+#EXTINF:-1,AR: AL RASHEED
+http://193.200.164.171:6969/live/ismael/ismael123/7449.ts
+#EXTINF:-1,AR: Al sharqiya
+http://193.200.164.171:6969/live/ismael/ismael123/7448.ts
+#EXTINF:-1,AR: Al Jazeera English
+http://193.200.164.171:6969/live/ismael/ismael123/1000.ts
+#EXTINF:-1,AR: Al Sharqiya News
+http://193.200.164.171:6969/live/ismael/ismael123/7447.ts
+#EXTINF:-1,AR: AL SUMARIA TV
+http://193.200.164.171:6969/live/ismael/ismael123/7450.ts
+#EXTINF:-1,AR: ASIA TV
+http://193.200.164.171:6969/live/ismael/ismael123/7451.ts
+#EXTINF:-1,AR: Cartoon Network
+http://193.200.164.171:6969/live/ismael/ismael123/7269.ts
+#EXTINF:-1,AR: BARAEM Bein
+http://193.200.164.171:6969/live/ismael/ismael123/5962.ts
+#EXTINF:-1,AR: BEUR TV
+http://193.200.164.171:6969/live/ismael/ismael123/6618.ts
+#EXTINF:-1,AR: Altaghier
+http://193.200.164.171:6969/live/ismael/ismael123/7457.ts
+#EXTINF:-1,AR: DUBAI ZAMAN
+http://193.200.164.171:6969/live/ismael/ismael123/982.ts
+#EXTINF:-1,AR: Samira_Tv
+http://193.200.164.171:6969/live/ismael/ismael123/1521.ts
+#EXTINF:-1,AR: OSN First HBO
+http://193.200.164.171:6969/live/ismael/ismael123/5432.ts
+#EXTINF:-1,AR: OSN First Comedy
+http://193.200.164.171:6969/live/ismael/ismael123/3370.ts
+#EXTINF:-1,AR: OSN BBC FIRST HD
+http://193.200.164.171:6969/live/ismael/ismael123/4355.ts
+#EXTINF:-1,AR: Almaghribia
+http://193.200.164.171:6969/live/ismael/ismael123/1511.ts
+#EXTINF:-1,AR: Arrabiaa
+http://193.200.164.171:6969/live/ismael/ismael123/1515.ts
+#EXTINF:-1,AR: Arriadia
+http://193.200.164.171:6969/live/ismael/ismael123/1512.ts
+#EXTINF:-1,AR - Al Jazeera Documentary
+http://193.200.164.171:6969/live/ismael/ismael123/1001.ts
+#EXTINF:-1,AR: AD Sports 1
+http://193.200.164.171:6969/live/ismael/ismael123/1049.ts
+#EXTINF:-1,AR: AD Sports 2
+http://193.200.164.171:6969/live/ismael/ismael123/1048.ts
+#EXTINF:-1,AR: Abu Dhabi Sports 1
+http://193.200.164.171:6969/live/ismael/ismael123/3386.ts
+#EXTINF:-1,AR: Al Alam
+http://193.200.164.171:6969/live/ismael/ismael123/549.ts
+#EXTINF:-1,AR: Al-Manar
+http://193.200.164.171:6969/live/ismael/ismael123/541.ts
+#EXTINF:-1,AR : Abu Dhabi TV
+http://193.200.164.171:6969/live/ismael/ismael123/3385.ts
+#EXTINF:-1,AR: Abu Dhabi Nat Geo
+http://193.200.164.171:6969/live/ismael/ismael123/3384.ts
+#EXTINF:-1,AR: BEIN MOVIES 2HD
+http://193.200.164.171:6969/live/ismael/ismael123/507.ts
+#EXTINF:-1,AR: MBC 2
+http://193.200.164.171:6969/live/ismael/ismael123/2500.ts
+#EXTINF:-1,AR: MBC 4
+http://193.200.164.171:6969/live/ismael/ismael123/2502.ts
+#EXTINF:-1,AR: MBC 4 HD(1)
+http://193.200.164.171:6969/live/ismael/ismael123/1042.ts
+#EXTINF:-1,AR: MBC Action(1)
+http://193.200.164.171:6969/live/ismael/ismael123/2499.ts
+#EXTINF:-1,AR: BEIN MOVIES 1HD
+http://193.200.164.171:6969/live/ismael/ismael123/506.ts
+#EXTINF:-1,AR: LDC
+http://193.200.164.171:6969/live/ismael/ismael123/1507.ts
+#EXTINF:-1,AR: ekhbariya tv
+http://193.200.164.171:6969/live/ismael/ismael123/3047.ts
+#EXTINF:-1,AR: beIN SPorts
+http://193.200.164.171:6969/live/ismael/ismael123/29.ts
+#EXTINF:-1,AR : Zee Alwan
+http://193.200.164.171:6969/live/ismael/ismael123/1503.ts
+#EXTINF:-1,AR : ZEE AFLAM
+http://193.200.164.171:6969/live/ismael/ismael123/1009.ts
+#EXTINF:-1,AR : TUNISIA 1
+http://193.200.164.171:6969/live/ismael/ismael123/1523.ts
+#EXTINF:-1,AR: TAMAZIGHT MAROC
+http://193.200.164.171:6969/live/ismael/ismael123/1504.ts
+#EXTINF:-1,AR: OSN CRICKET HD**
+http://193.200.164.171:6969/live/ismael/ismael123/5866.ts
+#EXTINF:-1,AR: Sunnatv
+http://193.200.164.171:6969/live/ismael/ismael123/3043.ts
+#EXTINF:-1,AR : iqraatv
+http://193.200.164.171:6969/live/ismael/ismael123/3044.ts
+#EXTINF:-1,AR : saudi2 tv
+http://193.200.164.171:6969/live/ismael/ismael123/3046.ts
+#EXTINF:-1,AR : saudi1 tv
+http://193.200.164.171:6969/live/ismael/ismael123/3045.ts
+#EXTINF:-1,AR: Rotana Masria
+http://193.200.164.171:6969/live/ismael/ismael123/551.ts
+#EXTINF:-1,AR: ROTANA KHALIJIAH
+http://193.200.164.171:6969/live/ismael/ismael123/1505.ts
+#EXTINF:-1,AR : Rotana clip
+http://193.200.164.171:6969/live/ismael/ismael123/1006.ts
+#EXTINF:-1,AR : qurantv
+http://193.200.164.171:6969/live/ismael/ismael123/3042.ts
+#EXTINF:-1,AR: OSN Yahala Cinema
+http://193.200.164.171:6969/live/ismael/ismael123/4357.ts
+#EXTINF:-1,AR : OSN WWE
+http://193.200.164.171:6969/live/ismael/ismael123/4358.ts
+#EXTINF:-1,AR: OSN Travel Channel HD
+http://193.200.164.171:6969/live/ismael/ismael123/4352.ts
+#EXTINF:-1,AR : OSN Star World HD
+http://193.200.164.171:6969/live/ismael/ismael123/4370.ts
+#EXTINF:-1,AR: OSN Star Movies HD
+http://193.200.164.171:6969/live/ismael/ismael123/4371.ts
+#EXTINF:-1,AR: OSN Yahala Drama HD
+http://193.200.164.171:6969/live/ismael/ismael123/4356.ts
+#EXTINF:-1,AR : OSN TLC HD
+http://193.200.164.171:6969/live/ismael/ismael123/4359.ts
+#EXTINF:-1,AR: OSN SyFy HD
+http://193.200.164.171:6969/live/ismael/ismael123/4360.ts
+#EXTINF:-1,AR : OSN OSN SPORT FIGHTNETWORK
+http://193.200.164.171:6969/live/ismael/ismael123/4363.ts
+#EXTINF:-1,AR: MBC MAX
+http://193.200.164.171:6969/live/ismael/ismael123/2501.ts
+#EXTINF:-1,AR : OSN Movies HD
+http://193.200.164.171:6969/live/ismael/ismael123/4364.ts
+#EXTINF:-1,AR: OSN ON DEMAND EXTRA 3 HD
+http://193.200.164.171:6969/live/ismael/ismael123/5441.ts
+#EXTINF:-1,AR : OSN On Demand Extra 1
+http://193.200.164.171:6969/live/ismael/ismael123/5429.ts
+#EXTINF:-1,AR : OSN ON DEMAND 3 HD
+http://193.200.164.171:6969/live/ismael/ismael123/5444.ts
+#EXTINF:-1,AR : OSN ON DEMAND 2 HD
+http://193.200.164.171:6969/live/ismael/ismael123/5443.ts
+#EXTINF:-1,AR: OSN ON DEMAND 1 HD
+http://193.200.164.171:6969/live/ismael/ismael123/5442.ts
+#EXTINF:-1,AR: OSN Nickelodeon HD
+http://193.200.164.171:6969/live/ismael/ismael123/4372.ts
+#EXTINF:-1,AR : OSN NEWS
+http://193.200.164.171:6969/live/ismael/ismael123/4366.ts
+#EXTINF:-1,AR: OSN Nat Geo Wild
+http://193.200.164.171:6969/live/ismael/ismael123/3383.ts
+#EXTINF:-1,AR: OSN Nat Geo People HD
+http://193.200.164.171:6969/live/ismael/ismael123/4353.ts
+#EXTINF:-1,AR: OSN Nat Geo HD
+http://193.200.164.171:6969/live/ismael/ismael123/4354.ts
+#EXTINF:-1,AR : OSN MTV LIVE HD
+http://193.200.164.171:6969/live/ismael/ismael123/4373.ts
+#EXTINF:-1,AR: OSN Movies Premiere 2HD
+http://193.200.164.171:6969/live/ismael/ismael123/1480.ts
+#EXTINF:-1,AR : SeeVii Shamiya HD
+http://193.200.164.171:6969/live/ismael/ismael123/7468.ts
+#EXTINF:-1,AR: OSN Movies Kids
+http://193.200.164.171:6969/live/ismael/ismael123/3372.ts
+#EXTINF:-1,AR: OSN Movies Festival
+http://193.200.164.171:6969/live/ismael/ismael123/3369.ts
+#EXTINF:-1,AR : OSN Movies Action  2 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4367.ts
+#EXTINF:-1,AR: OSN Movies 2 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4361.ts
+#EXTINF:-1,AR: Al Shasha Mousalsalat
+http://193.200.164.171:6969/live/ismael/ismael123/5440.ts
+#EXTINF:-1,AR: OSN MBC Plus Drama
+http://193.200.164.171:6969/live/ismael/ismael123/3373.ts
+#EXTINF:-1,AR: OSN MBC Drama
+http://193.200.164.171:6969/live/ismael/ismael123/3371.ts
+#EXTINF:-1,AR : OSN Fox News HD
+http://193.200.164.171:6969/live/ismael/ismael123/5437.ts
+#EXTINF:-1,AR: SeeVii Drama HD
+http://193.200.164.171:6969/live/ismael/ismael123/7469.ts
+#EXTINF:-1,AR: OSN Fine Living HD
+http://193.200.164.171:6969/live/ismael/ismael123/5436.ts
+#EXTINF:-1,AR : OSN Fatafeat
+http://193.200.164.171:6969/live/ismael/ismael123/5435.ts
+#EXTINF:-1,AR : OSN E!
+http://193.200.164.171:6969/live/ismael/ismael123/5402.ts
+#EXTINF:-1,AR : OSN Disney Channel HD
+http://193.200.164.171:6969/live/ismael/ismael123/4350.ts
+#EXTINF:-1,AR: OSN Discovery Science
+http://193.200.164.171:6969/live/ismael/ismael123/3382.ts
+#EXTINF:-1,AR : SeeVii Beelink HD
+http://193.200.164.171:6969/live/ismael/ismael123/7470.ts
+#EXTINF:-1,AR: OSN Discovery I.D
+http://193.200.164.171:6969/live/ismael/ismael123/3375.ts
+#EXTINF:-1,AR : OSN DISCOVERY FAMILY HD
+http://193.200.164.171:6969/live/ismael/ismael123/4351.ts
+#EXTINF:-1,AR: OSN CRICKET HD
+http://193.200.164.171:6969/live/ismael/ismael123/4705.ts
+#EXTINF:-1,AR: OSN Cinema 1
+http://193.200.164.171:6969/live/ismael/ismael123/5404.ts
+#EXTINF:-1,AR: OSN BOX OFFICE 2
+http://193.200.164.171:6969/live/ismael/ismael123/1481.ts
+#EXTINF:-1,AR: OSN Box Office 1
+http://193.200.164.171:6969/live/ismael/ismael123/3381.ts
+#EXTINF:-1,AR : OSN B4U Plus
+http://193.200.164.171:6969/live/ismael/ismael123/5439.ts
+#EXTINF:-1,AR: OSN Art Hekayat 1
+http://193.200.164.171:6969/live/ismael/ismael123/3379.ts
+#EXTINF:-1,AR: OSN Animal Planet
+http://193.200.164.171:6969/live/ismael/ismael123/3393.ts
+#EXTINF:-1,AR : OSN Alkass Sport 5
+http://193.200.164.171:6969/live/ismael/ismael123/3391.ts
+#EXTINF:-1,AR: OSN Alkass Sport 4
+http://193.200.164.171:6969/live/ismael/ismael123/3390.ts
+#EXTINF:-1,AR: OSN Alkass Sport 3
+http://193.200.164.171:6969/live/ismael/ismael123/3389.ts
+#EXTINF:-1,AR: OSN Alkass Sport 2
+http://193.200.164.171:6969/live/ismael/ismael123/3388.ts
+#EXTINF:-1,AR: OSN Alkass Sport 1
+http://193.200.164.171:6969/live/ismael/ismael123/3387.ts
+#EXTINF:-1,AR: OSN AL Youm HD
+http://193.200.164.171:6969/live/ismael/ismael123/984.ts
+#EXTINF:-1,AR: OSN Al Youm
+http://193.200.164.171:6969/live/ismael/ismael123/3376.ts
+#EXTINF:-1,AR: OSN AL Yawm
+http://193.200.164.171:6969/live/ismael/ismael123/5431.ts
+#EXTINF:-1,AR: OSN Al Safwa
+http://193.200.164.171:6969/live/ismael/ismael123/5430.ts
+#EXTINF:-1,AR: OSN Action 2
+http://193.200.164.171:6969/live/ismael/ismael123/3377.ts
+#EXTINF:-1,AR: OSN Action
+http://193.200.164.171:6969/live/ismael/ismael123/3392.ts
+#EXTINF:-1,AR : NILE CINEMA
+http://193.200.164.171:6969/live/ismael/ismael123/1012.ts
+#EXTINF:-1,AR: NBN Lebanon
+http://193.200.164.171:6969/live/ismael/ismael123/1506.ts
+#EXTINF:-1,AR : MOGA comedy
+http://193.200.164.171:6969/live/ismael/ismael123/1011.ts
+#EXTINF:-1,AR: MBC1
+http://193.200.164.171:6969/live/ismael/ismael123/536.ts
+#EXTINF:-1,AR: MBC Pro Sports 3HD
+http://193.200.164.171:6969/live/ismael/ismael123/1043.ts
+#EXTINF:-1,AR: MBC Pro Sports 2HD
+http://193.200.164.171:6969/live/ismael/ismael123/2498.ts
+#EXTINF:-1,AR: MBC Pro Sports 1HD
+http://193.200.164.171:6969/live/ismael/ismael123/2497.ts
+#EXTINF:-1,AR: MBC MASR(1)
+http://193.200.164.171:6969/live/ismael/ismael123/539.ts
+#EXTINF:-1,AR : LBC HD
+http://193.200.164.171:6969/live/ismael/ismael123/1508.ts
+#EXTINF:-1,AR: OSN Movies Premiere 2
+http://193.200.164.171:6969/live/ismael/ismael123/3380.ts
+#EXTINF:-1,AR: Assadissa
+http://193.200.164.171:6969/live/ismael/ismael123/1514.ts
+#EXTINF:-1,AR: DMC Sports
+http://193.200.164.171:6969/live/ismael/ismael123/7062.ts
+#EXTINF:-1,AR: Dubai Sport 3
+http://193.200.164.171:6969/live/ismael/ismael123/4064.ts
+#EXTINF:-1,AR: BEIN MOVIES 3 HD
+http://193.200.164.171:6969/live/ismael/ismael123/508.ts
+#EXTINF:-1,AR: BEIN MOVIES 4 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4612.ts
+#EXTINF:-1,AR: CBC
+http://193.200.164.171:6969/live/ismael/ismael123/1047.ts
+#EXTINF:-1,AR: CBC Drama
+http://193.200.164.171:6969/live/ismael/ismael123/1021.ts
+#EXTINF:-1,AR: CBC Extra
+http://193.200.164.171:6969/live/ismael/ismael123/1046.ts
+#EXTINF:-1,AR: CBC Sofra
+http://193.200.164.171:6969/live/ismael/ismael123/1045.ts
+#EXTINF:-1,AR: Dubai 1
+http://193.200.164.171:6969/live/ismael/ismael123/4067.ts
+#EXTINF:-1,AR: Dubai One
+http://193.200.164.171:6969/live/ismael/ismael123/4066.ts
+#EXTINF:-1,AR: Beladi
+http://193.200.164.171:6969/live/ismael/ismael123/7453.ts
+#EXTINF:-1,AR: Dubai Racing 2
+http://193.200.164.171:6969/live/ismael/ismael123/4065.ts
+#EXTINF:-1,AR: SLNTV
+http://193.200.164.171:6969/live/ismael/ismael123/7458.ts
+#EXTINF:-1,AR: Dubai TV
+http://193.200.164.171:6969/live/ismael/ismael123/7464.ts
+#EXTINF:-1,AR: SeeVii Al Aoula HD
+http://193.200.164.171:6969/live/ismael/ismael123/7471.ts
+#EXTINF:-1,AR: Toyor Baby
+http://193.200.164.171:6969/live/ismael/ismael123/7061.ts
+#EXTINF:-1,AR: TUNISIA NAT 2
+http://193.200.164.171:6969/live/ismael/ismael123/7054.ts
+#EXTINF:-1,AR: SUHAIL TV
+http://193.200.164.171:6969/live/ismael/ismael123/7083.ts
+#EXTINF:-1,AR: Yemen Shabab
+http://193.200.164.171:6969/live/ismael/ismael123/7084.ts
+#EXTINF:-1,AR: YEMEN TODAY TV
+http://193.200.164.171:6969/live/ismael/ismael123/7086.ts
+#EXTINF:-1,AR: dmc HD
+http://193.200.164.171:6969/live/ismael/ismael123/7446.ts
+#EXTINF:-1,AR: ON Sport HD
+http://193.200.164.171:6969/live/ismael/ismael123/7434.ts
+#EXTINF:-1,AR: Rotana Music HD
+http://193.200.164.171:6969/live/ismael/ismael123/5501.ts
+#EXTINF:-1,AR: Rotana Masriah HD
+http://193.200.164.171:6969/live/ismael/ismael123/5502.ts
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://193.200.164.171:6969/live/ismael/ismael123/5503.ts
+#EXTINF:-1,AR: Rotana Classic HD
+http://193.200.164.171:6969/live/ismael/ismael123/5504.ts
+#EXTINF:-1,AR: Rotana Cinema HD
+http://193.200.164.171:6969/live/ismael/ismael123/5505.ts
+#EXTINF:-1,AR: Rotana Aflam HD
+http://193.200.164.171:6969/live/ismael/ismael123/5506.ts
+#EXTINF:-1,AR: Maan
+http://193.200.164.171:6969/live/ismael/ismael123/7173.ts
+#EXTINF:-1,AR: MINHAJ TV
+http://193.200.164.171:6969/live/ismael/ismael123/7183.ts
+#EXTINF:-1,AR: Music Alarrab
+http://193.200.164.171:6969/live/ismael/ismael123/7186.ts
+#EXTINF:-1,AR: Music Alremas
+http://193.200.164.171:6969/live/ismael/ismael123/7184.ts
+#EXTINF:-1,AR: Palestine TV
+http://193.200.164.171:6969/live/ismael/ismael123/7175.ts
+#EXTINF:-1,AR: SANAA TV
+http://193.200.164.171:6969/live/ismael/ismael123/7179.ts
+#EXTINF:-1,VIP AR: OSN Disney Channel HD
+http://193.200.164.171:6969/live/ismael/ismael123/7142.ts
+#EXTINF:-1,VIP AR: OSN NEWS HD
+http://193.200.164.171:6969/live/ismael/ismael123/7143.ts
+#EXTINF:-1,AR: MBC Dramar +
+http://193.200.164.171:6969/live/ismael/ismael123/5817.ts
+#EXTINF:-1,VIP AR: Bein Sport News
+http://193.200.164.171:6969/live/ismael/ismael123/5998.ts
+#EXTINF:-1,VIP AR: Bein TCM HD
+http://193.200.164.171:6969/live/ismael/ismael123/5999.ts
+#EXTINF:-1,VIP AR: Bein Travel HD
+http://193.200.164.171:6969/live/ismael/ismael123/6000.ts
+#EXTINF:-1,VIP AR: OSN Ten Cricket
+http://193.200.164.171:6969/live/ismael/ismael123/6002.ts
+#EXTINF:-1,AR: Nile Cinema
+http://193.200.164.171:6969/live/ismael/ismael123/6331.ts
+#EXTINF:-1,AR: NILE COMEDY
+http://193.200.164.171:6969/live/ismael/ismael123/6332.ts
+#EXTINF:-1,AR: Nile Culture
+http://193.200.164.171:6969/live/ismael/ismael123/6333.ts
+#EXTINF:-1,AR: Nile Drama
+http://193.200.164.171:6969/live/ismael/ismael123/6334.ts
+#EXTINF:-1,AR: Nile Life
+http://193.200.164.171:6969/live/ismael/ismael123/6335.ts
+#EXTINF:-1,AR: NILE NEWS
+http://193.200.164.171:6969/live/ismael/ismael123/6336.ts
+#EXTINF:-1,AR: Nile Sport
+http://193.200.164.171:6969/live/ismael/ismael123/6337.ts
+#EXTINF:-1,AR: Nile tv
+http://193.200.164.171:6969/live/ismael/ismael123/6339.ts
+#EXTINF:-1,AR: NileFamily
+http://193.200.164.171:6969/live/ismael/ismael123/6338.ts
+#EXTINF:-1,VIP AR: Bein NBA HD
+http://193.200.164.171:6969/live/ismael/ismael123/6354.ts
+#EXTINF:-1,AR: ENTV
+http://193.200.164.171:6969/live/ismael/ismael123/6364.ts
+#EXTINF:-1,VIP AR: Bein Baraem
+http://193.200.164.171:6969/live/ismael/ismael123/6494.ts
+#EXTINF:-1,VIP AR: Bein Fatafeat HD
+http://193.200.164.171:6969/live/ismael/ismael123/6498.ts
+#EXTINF:-1,VIP AR: Bein Jeem HD
+http://193.200.164.171:6969/live/ismael/ismael123/6501.ts
+#EXTINF:-1,VIP AR: OSN CNN
+http://193.200.164.171:6969/live/ismael/ismael123/6505.ts
+#EXTINF:-1,VIP AR: OSN DOCU BOX HD
+http://193.200.164.171:6969/live/ismael/ismael123/6507.ts
+#EXTINF:-1,VIP AR: OSN HISTORY 2
+http://193.200.164.171:6969/live/ismael/ismael123/6511.ts
+#EXTINF:-1,VIP AR: OSN YAHALA HD 2
+http://193.200.164.171:6969/live/ismael/ismael123/6513.ts
+#EXTINF:-1,AR: Sama TV
+http://193.200.164.171:6969/live/ismael/ismael123/6524.ts
+#EXTINF:-1,AR: Sama Yemen
+http://193.200.164.171:6969/live/ismael/ismael123/6525.ts
+#EXTINF:-1,AR: SamaDubai
+http://193.200.164.171:6969/live/ismael/ismael123/6526.ts
+#EXTINF:-1,AR: SAMARRA TV
+http://193.200.164.171:6969/live/ismael/ismael123/6527.ts
+#EXTINF:-1,AR: SYRIA DRAMA
+http://193.200.164.171:6969/live/ismael/ismael123/6520.ts
+#EXTINF:-1,AR: Syria Medical TV
+http://193.200.164.171:6969/live/ismael/ismael123/6521.ts
+#EXTINF:-1,AR: SYRIA SATELLITETV
+http://193.200.164.171:6969/live/ismael/ismael123/6523.ts
+#EXTINF:-1,AR: SYRIAN EDUCATION
+http://193.200.164.171:6969/live/ismael/ismael123/6522.ts
+#EXTINF:-1,AR: Echorouk TV
+http://193.200.164.171:6969/live/ismael/ismael123/6616.ts
+#EXTINF:-1,AR: ENNAHAR TV
+http://193.200.164.171:6969/live/ismael/ismael123/6617.ts
+#EXTINF:-1,AR: Numidia News TV
+http://193.200.164.171:6969/live/ismael/ismael123/6619.ts
+#EXTINF:-1,AR: TNN Tunisia
+http://193.200.164.171:6969/live/ismael/ismael123/6612.ts
+#EXTINF:-1,VIP AR: BeIN Movies 1HD
+http://193.200.164.171:6969/live/ismael/ismael123/6608.ts
+#EXTINF:-1,VIP AR: BeIN Movies 2HD
+http://193.200.164.171:6969/live/ismael/ismael123/6609.ts
+#EXTINF:-1,VIP AR: BeIN Movies 3HD
+http://193.200.164.171:6969/live/ismael/ismael123/6610.ts
+#EXTINF:-1,VIP AR: BeIN Movies 4HD
+http://193.200.164.171:6969/live/ismael/ismael123/6611.ts
+#EXTINF:-1,AR: Free Syria
+http://193.200.164.171:6969/live/ismael/ismael123/6620.ts
+#EXTINF:-1,AR: Noursat
+http://193.200.164.171:6969/live/ismael/ismael123/6697.ts
+#EXTINF:-1,VIP AR: OSN Discovery HD
+http://193.200.164.171:6969/live/ismael/ismael123/6703.ts
+#EXTINF:-1,VIP AR: OSN Discovery ID HD
+http://193.200.164.171:6969/live/ismael/ismael123/6704.ts
+#EXTINF:-1,VIP AR: OSN Discovery Science HD
+http://193.200.164.171:6969/live/ismael/ismael123/6705.ts
+#EXTINF:-1,VIP AR: OSN Disney HD
+http://193.200.164.171:6969/live/ismael/ismael123/6700.ts
+#EXTINF:-1,VIP AR: OSN Disney Junior
+http://193.200.164.171:6969/live/ismael/ismael123/6701.ts
+#EXTINF:-1,VIP AR: OSN Disney XD
+http://193.200.164.171:6969/live/ismael/ismael123/6702.ts
+#EXTINF:-1,VIP AR: OSN Movies 2 HD
+http://193.200.164.171:6969/live/ismael/ismael123/6717.ts
+#EXTINF:-1,VIP AR: OSN Movies Action 2
+http://193.200.164.171:6969/live/ismael/ismael123/6707.ts
+#EXTINF:-1,VIP AR: OSN Movies Action HD
+http://193.200.164.171:6969/live/ismael/ismael123/6706.ts
+#EXTINF:-1,VIP AR: OSN Movies Comedy HD
+http://193.200.164.171:6969/live/ismael/ismael123/6708.ts
+#EXTINF:-1,VIP AR: OSN MOVIES DRAMA 2
+http://193.200.164.171:6969/live/ismael/ismael123/6709.ts
+#EXTINF:-1,VIP AR: OSN Movies Drama HD
+http://193.200.164.171:6969/live/ismael/ismael123/6710.ts
+#EXTINF:-1,VIP AR: OSN Movies Family HD
+http://193.200.164.171:6969/live/ismael/ismael123/6711.ts
+#EXTINF:-1,VIP AR: OSN Movies Festival HD
+http://193.200.164.171:6969/live/ismael/ismael123/6712.ts
+#EXTINF:-1,VIP AR: OSN Movies HD
+http://193.200.164.171:6969/live/ismael/ismael123/6713.ts
+#EXTINF:-1,VIP AR: OSN Movies Kids HD
+http://193.200.164.171:6969/live/ismael/ismael123/6714.ts
+#EXTINF:-1,VIP AR: OSN Movies Prem 2
+http://193.200.164.171:6969/live/ismael/ismael123/6715.ts
+#EXTINF:-1,VIP AR: OSN Movies Priemer HD
+http://193.200.164.171:6969/live/ismael/ismael123/6716.ts
+#EXTINF:-1,VIP AR: OSN National Geo HD
+http://193.200.164.171:6969/live/ismael/ismael123/6698.ts
+#EXTINF:-1,VIP AR: OSN National Geo People HD
+http://193.200.164.171:6969/live/ismael/ismael123/6699.ts
+#EXTINF:-1,AR: MTV Lebanon
+http://193.200.164.171:6969/live/ismael/ismael123/6758.ts
+#EXTINF:-1,AR: TAHA
+http://193.200.164.171:6969/live/ismael/ismael123/6773.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://193.200.164.171:6969/live/ismael/ismael123/6793.ts
+#EXTINF:-1,VIP AR: OSN Fox News
+http://193.200.164.171:6969/live/ismael/ismael123/6853.ts
+#EXTINF:-1,VIP AR: OSN National Geo Wild HD
+http://193.200.164.171:6969/live/ismael/ismael123/6964.ts
+#EXTINF:-1,VIP AR: OSN Discovery Family HD
+http://193.200.164.171:6969/live/ismael/ismael123/6967.ts
+#EXTINF:-1,VIP AR: OSN Travel Channel HD
+http://193.200.164.171:6969/live/ismael/ismael123/6966.ts
+#EXTINF:-1,AR: Dubai Sports 4
+http://193.200.164.171:6969/live/ismael/ismael123/4062.ts
+#EXTINF:-1,AR: MBC 1 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4061.ts
+#EXTINF:-1,AR: MBC 2 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4060.ts
+#EXTINF:-1,AR: MBC 3 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4059.ts
+#EXTINF:-1,AR: MBC 4 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4058.ts
+#EXTINF:-1,AR: MBC ACTION
+http://193.200.164.171:6969/live/ismael/ismael123/540.ts
+#EXTINF:-1,AR: MBC Action HD
+http://193.200.164.171:6969/live/ismael/ismael123/4057.ts
+#EXTINF:-1,AR: MBC Drama HD
+http://193.200.164.171:6969/live/ismael/ismael123/4056.ts
+#EXTINF:-1,AR: MBC Masr
+http://193.200.164.171:6969/live/ismael/ismael123/1044.ts
+#EXTINF:-1,AR: MBC Max HD
+http://193.200.164.171:6969/live/ismael/ismael123/4055.ts
+#EXTINF:-1,AR: MBC PRO SPORTS 4
+http://193.200.164.171:6969/live/ismael/ismael123/4281.ts
+#EXTINF:-1,AR: MBC Variety HD
+http://193.200.164.171:6969/live/ismael/ismael123/4054.ts
+#EXTINF:-1,AR: Medi 1 Sat
+http://193.200.164.171:6969/live/ismael/ismael123/1510.ts
+#EXTINF:-1,AR: NationalGeo AD
+http://193.200.164.171:6969/live/ismael/ismael123/1004.ts
+#EXTINF:-1,AR: NESSMA
+http://193.200.164.171:6969/live/ismael/ismael123/1522.ts
+#EXTINF:-1,AR: OSN  Ya Hala! SHABAB HD
+http://193.200.164.171:6969/live/ismael/ismael123/985.ts
+#EXTINF:-1,AR: OSN Disney Junior
+http://193.200.164.171:6969/live/ismael/ismael123/5403.ts
+#EXTINF:-1,AR: OSN ITV Choice
+http://193.200.164.171:6969/live/ismael/ismael123/5433.ts
+#EXTINF:-1,AR: OSN MOVIE COMEDY HD
+http://193.200.164.171:6969/live/ismael/ismael123/998.ts
+#EXTINF:-1,AR: OSN MOVIES ACTION HD
+http://193.200.164.171:6969/live/ismael/ismael123/987.ts
+#EXTINF:-1,AR: OSN Movies Drama
+http://193.200.164.171:6969/live/ismael/ismael123/986.ts
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
+http://193.200.164.171:6969/live/ismael/ismael123/996.ts
+#EXTINF:-1,AR: OSN Outdoor
+http://193.200.164.171:6969/live/ismael/ismael123/5401.ts
+#EXTINF:-1,AR: OSN Sports 1 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4645.ts
+#EXTINF:-1,AR: OSN Sports 2 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4644.ts
+#EXTINF:-1,AR: OSN Sports 3 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4643.ts
+#EXTINF:-1,AR: OSN Sports 4 HD
+http://193.200.164.171:6969/live/ismael/ismael123/4642.ts
+#EXTINF:-1,AR: OSN YAHALA HD
+http://193.200.164.171:6969/live/ismael/ismael123/983.ts
+#EXTINF:-1,AR: Otv Lebanon
+http://193.200.164.171:6969/live/ismael/ismael123/554.ts
+#EXTINF:-1,AR: Semsem
+http://193.200.164.171:6969/live/ismael/ismael123/1017.ts
+#EXTINF:-1,AR: Syria News
+http://193.200.164.171:6969/live/ismael/ismael123/555.ts
+#EXTINF:-1,AR: Tamazight
+http://193.200.164.171:6969/live/ismael/ismael123/1513.ts
+#EXTINF:-1,AR: TOYOR AL JANAH
+http://193.200.164.171:6969/live/ismael/ismael123/1520.ts
+#EXTINF:-1,AR:AlJazerra
+http://193.200.164.171:6969/live/ismael/ismael123/558.ts
+#EXTINF:-1,AR: Almajd_Kids
+http://193.200.164.171:6969/live/ismael/ismael123/1014.ts
+#EXTINF:-1,AR:B4U-AFLAM
+http://193.200.164.171:6969/live/ismael/ismael123/1013.ts
+#EXTINF:-1,AR:Future TV
+http://193.200.164.171:6969/live/ismael/ismael123/552.ts
+#EXTINF:-1,AR: MBC DRAMA
+http://193.200.164.171:6969/live/ismael/ismael123/538.ts
+#EXTINF:-1,AR: MBC2
+http://193.200.164.171:6969/live/ismael/ismael123/537.ts
+#EXTINF:-1,AR: Panorama-Comedy
+http://193.200.164.171:6969/live/ismael/ismael123/1010.ts
+#EXTINF:-1,AR:Panorama-Film
+http://193.200.164.171:6969/live/ismael/ismael123/1007.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://193.200.164.171:6969/live/ismael/ismael123/1005.ts
+#EXTINF:-1,AR: Dubai Sports 1
+http://193.200.164.171:6969/live/ismael/ismael123/4063.ts
+#EXTINF:-1,AR: Al Quds
+http://193.200.164.171:6969/live/ismael/ismael123/7058.ts
+#EXTINF:-1,AR: dmc DRAMA HD
+http://193.200.164.171:6969/live/ismael/ismael123/7445.ts
+#EXTINF:-1,AR: Tele liban TV
+http://193.200.164.171:6969/live/ismael/ismael123/7592.ts
+#EXTINF:-1,VIP AR: beIN Series 1 HD
+http://193.200.164.171:6969/live/ismael/ismael123/7677.ts
+#EXTINF:-1,AR: NRT 2
+http://193.200.164.171:6969/live/ismael/ismael123/7710.ts
+#EXTINF:-1,AR: Masr 2
+http://193.200.164.171:6969/live/ismael/ismael123/7715.ts
+#EXTINF:-1,AR: Karameesh
+http://193.200.164.171:6969/live/ismael/ismael123/7849.ts
+#EXTINF:-1,AR: Space Toon
+http://193.200.164.171:6969/live/ismael/ismael123/7850.ts
+#EXTINF:-1,AR: MBC Plus Drama HD(backup1)
+http://193.200.164.171:6969/live/ismael/ismael123/8036.ts
+#EXTINF:-1,AR: Echorouk Benna
+http://193.200.164.171:6969/live/ismael/ismael123/8236.ts
+#EXTINF:-1,AR: Echorouk News
+http://193.200.164.171:6969/live/ismael/ismael123/8237.ts
+#EXTINF:-1,AR: Al Shorooq
+http://193.200.164.171:6969/live/ismael/ismael123/8402.ts
+#EXTINF:-1,AR: BLUE NILE
+http://193.200.164.171:6969/live/ismael/ismael123/8401.ts
+#EXTINF:-1,AR: Al Kout
+http://193.200.164.171:6969/live/ismael/ismael123/8524.ts
+#EXTINF:-1,AR: AL SHAHED TV
+http://193.200.164.171:6969/live/ismael/ismael123/8525.ts
+#EXTINF:-1,AR: Sada El Balad 2
+http://193.200.164.171:6969/live/ismael/ismael123/8522.ts
+#EXTINF:-1,AR: Sada El Balad HD
+http://193.200.164.171:6969/live/ismael/ismael123/8523.ts
+#EXTINF:-1,AR: Sada Elbalad Drama +2
+http://193.200.164.171:6969/live/ismael/ismael123/8521.ts
+#EXTINF:-1,AR: MBC 1 HD backup
+http://193.200.164.171:6969/live/ismael/ismael123/8673.ts
+#EXTINF:-1,AR: BEIN 10 HD
+http://193.200.164.171:6969/live/ismael/ismael123/9127.ts
+#EXTINF:-1,AR: BEIN 11 HD
+http://193.200.164.171:6969/live/ismael/ismael123/9126.ts
+#EXTINF:-1,AR: BEIN 12 HD
+http://193.200.164.171:6969/live/ismael/ismael123/9125.ts
+#EXTINF:-1,AR: BEIN 13 HD
+http://193.200.164.171:6969/live/ismael/ismael123/9123.ts
+#EXTINF:-1,AR: BEIN 9 HD
+http://193.200.164.171:6969/live/ismael/ismael123/9124.ts
+#EXTINF:-1,AR: BEIN 1 FHD
+http://193.200.164.171:6969/live/ismael/ismael123/8998.ts
+#EXTINF:-1,AR: BEIN 2 FHD
+http://193.200.164.171:6969/live/ismael/ismael123/8997.ts
+#EXTINF:-1,AR: BEIN 3 FHD
+http://193.200.164.171:6969/live/ismael/ismael123/8996.ts
+#EXTINF:-1,AR: BEIN 4 FHD
+http://193.200.164.171:6969/live/ismael/ismael123/8995.ts
+#EXTINF:-1,AR: BEIN 5 HD
+http://193.200.164.171:6969/live/ismael/ismael123/8994.ts
+#EXTINF:-1,AR: BEIN 6 HD
+http://193.200.164.171:6969/live/ismael/ismael123/8993.ts
+#EXTINF:-1,AR: BEIN 7 FHD
+http://193.200.164.171:6969/live/ismael/ismael123/8992.ts
+#EXTINF:-1,AR: BEIN 8 FHD
+http://193.200.164.171:6969/live/ismael/ismael123/8991.ts
+#EXTINF:-1,AR:  ZITOUNA HEDAYA
+http://193.200.164.171:6969/live/ismael/ismael123/9121.ts
+#EXTINF:-1,AR: Al Ghad Almushreq
+http://193.200.164.171:6969/live/ismael/ismael123/8958.ts
+#EXTINF:-1,AR: Al KhabarTV
+http://193.200.164.171:6969/live/ismael/ismael123/9002.ts
+#EXTINF:-1,AR: AL SHAREYYAH
+http://193.200.164.171:6969/live/ismael/ismael123/8957.ts
+#EXTINF:-1,AR: BELQEES
+http://193.200.164.171:6969/live/ismael/ismael123/8956.ts
+#EXTINF:-1,AR: ETTOUNSIA
+http://193.200.164.171:6969/live/ismael/ismael123/9122.ts
+#EXTINF:-1,AR: HALABA TV
+http://193.200.164.171:6969/live/ismael/ismael123/9003.ts
+#EXTINF:-1,AR: Koogi
+http://193.200.164.171:6969/live/ismael/ismael123/8973.ts
+#EXTINF:-1,AR: LIBYA 218
+http://193.200.164.171:6969/live/ismael/ismael123/8968.ts
+#EXTINF:-1,AR: Libya 24
+http://193.200.164.171:6969/live/ismael/ismael123/8965.ts
+#EXTINF:-1,AR: Libya Al Ahrar
+http://193.200.164.171:6969/live/ismael/ismael123/8959.ts
+#EXTINF:-1,AR: LIBYA ALHRAR
+http://193.200.164.171:6969/live/ismael/ismael123/8970.ts
+#EXTINF:-1,AR: Libya Almarah
+http://193.200.164.171:6969/live/ismael/ismael123/8961.ts
+#EXTINF:-1,AR: LIBYA ALRASMEYA
+http://193.200.164.171:6969/live/ismael/ismael123/8971.ts
+#EXTINF:-1,AR: Libya News
+http://193.200.164.171:6969/live/ismael/ismael123/8964.ts
+#EXTINF:-1,AR: Libya One
+http://193.200.164.171:6969/live/ismael/ismael123/8960.ts
+#EXTINF:-1,AR: LIBYA RASMIA
+http://193.200.164.171:6969/live/ismael/ismael123/8972.ts
+#EXTINF:-1,AR: Libya Rsmia
+http://193.200.164.171:6969/live/ismael/ismael123/8966.ts
+#EXTINF:-1,AR: Libya TV
+http://193.200.164.171:6969/live/ismael/ismael123/8967.ts
+#EXTINF:-1,AR: Nabdh Syria
+http://193.200.164.171:6969/live/ismael/ismael123/9004.ts
+#EXTINF:-1,AR: Omdurman
+http://193.200.164.171:6969/live/ismael/ismael123/9118.ts
+#EXTINF:-1,AR: SHAM FM
+http://193.200.164.171:6969/live/ismael/ismael123/9005.ts
+#EXTINF:-1,AR: Sharjah Sport
+http://193.200.164.171:6969/live/ismael/ismael123/9119.ts
+#EXTINF:-1,AR: SHARJAH TV
+http://193.200.164.171:6969/live/ismael/ismael123/9120.ts
+#EXTINF:-1,AR: Sudania24
+http://193.200.164.171:6969/live/ismael/ismael123/9117.ts
+#EXTINF:-1,AR: Al Adjwaa
+http://193.200.164.171:6969/live/ismael/ismael123/9151.ts
+#EXTINF:-1,AR: Al Anis
+http://193.200.164.171:6969/live/ismael/ismael123/9150.ts
+#EXTINF:-1,AR: AL FAJR TV
+http://193.200.164.171:6969/live/ismael/ismael123/9159.ts
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) 10 HD
+http://193.200.164.171:6969/live/ismael/ismael123/6939.ts
+#EXTINF:-1,VIP: OSN Discovery Science
+http://193.200.164.171:6969/live/ismael/ismael123/19285.ts
+#EXTINF:-1,VIP: OSN Disney Channel
+http://193.200.164.171:6969/live/ismael/ismael123/19284.ts
+#EXTINF:-1,VIP: OSN First Hbo
+http://193.200.164.171:6969/live/ismael/ismael123/19297.ts
+#EXTINF:-1,VIP: OSN Movies
+http://193.200.164.171:6969/live/ismael/ismael123/19295.ts
+#EXTINF:-1,VIP: OSN Movies Action
+http://193.200.164.171:6969/live/ismael/ismael123/19294.ts
+#EXTINF:-1,VIP: OSN Movies Comedy
+http://193.200.164.171:6969/live/ismael/ismael123/19292.ts
+#EXTINF:-1,VIP: OSN Movies Disney
+http://193.200.164.171:6969/live/ismael/ismael123/19289.ts
+#EXTINF:-1,VIP: OSN Movies Family
+http://193.200.164.171:6969/live/ismael/ismael123/19291.ts
+#EXTINF:-1,VIP: OSN Movies Festival
+http://193.200.164.171:6969/live/ismael/ismael123/19290.ts
+#EXTINF:-1,VIP: OSN Movies First
+http://193.200.164.171:6969/live/ismael/ismael123/19296.ts
+#EXTINF:-1,VIP: OSN Movies Thriller
+http://193.200.164.171:6969/live/ismael/ismael123/19293.ts
+#EXTINF:-1,VIP: OSN Series Comedy
+http://193.200.164.171:6969/live/ismael/ismael123/19299.ts
+#EXTINF:-1,VIP: OSN Series First
+http://193.200.164.171:6969/live/ismael/ismael123/19300.ts
+#EXTINF:-1,VIP: OSN Series HD
+http://193.200.164.171:6969/live/ismael/ismael123/19298.ts
+#EXTINF:-1,VIP: OSN Sports 1 Action
+http://193.200.164.171:6969/live/ismael/ismael123/19282.ts
+#EXTINF:-1,VIP: OSN Sports 2 Action
+http://193.200.164.171:6969/live/ismael/ismael123/19281.ts
+#EXTINF:-1,VIP: OSN Star Movies
+http://193.200.164.171:6969/live/ismael/ismael123/19288.ts
+#EXTINF:-1,VIP: OSN Star World HD
+http://193.200.164.171:6969/live/ismael/ismael123/19287.ts
+#EXTINF:-1,VIP: OSN SyFy
+http://193.200.164.171:6969/live/ismael/ismael123/19286.ts
+#EXTINF:-1,VIP: OSN TLC HD
+http://193.200.164.171:6969/live/ismael/ismael123/19283.ts
+#EXTINF:-1,VIP: OSN Al Safwa
+http://193.200.164.171:6969/live/ismael/ismael123/6149.ts
+#EXTINF:-1,VIP: OSN Al Yawm
+http://193.200.164.171:6969/live/ismael/ismael123/6004.ts
+#EXTINF:-1,VIP: OSN Animal Planet HD
+http://193.200.164.171:6969/live/ismael/ismael123/6029.ts
+#EXTINF:-1,VIP: OSN Cinema 1
+http://193.200.164.171:6969/live/ismael/ismael123/6135.ts
+#EXTINF:-1,VIP: OSN Cinema 2
+http://193.200.164.171:6969/live/ismael/ismael123/6136.ts
+#EXTINF:-1,VIP: OSN Comedy Central HD
+http://193.200.164.171:6969/live/ismael/ismael123/6166.ts
+#EXTINF:-1,VIP: OSN Disney Junior
+http://193.200.164.171:6969/live/ismael/ismael123/6137.ts
+#EXTINF:-1,VIP: OSN Fann
+http://193.200.164.171:6969/live/ismael/ismael123/6147.ts
+#EXTINF:-1,VIP: OSN Fatafeat
+http://193.200.164.171:6969/live/ismael/ismael123/6003.ts
+#EXTINF:-1,VIP: OSN Fight Network
+http://193.200.164.171:6969/live/ismael/ismael123/6011.ts
+#EXTINF:-1,VIP: OSN First
+http://193.200.164.171:6969/live/ismael/ismael123/6162.ts
+#EXTINF:-1,VIP: OSN First 2
+http://193.200.164.171:6969/live/ismael/ismael123/6163.ts
+#EXTINF:-1,VIP: OSN First Comedy
+http://193.200.164.171:6969/live/ismael/ismael123/6164.ts
+#EXTINF:-1,VIP: OSN First Comedy 2
+http://193.200.164.171:6969/live/ismael/ismael123/6165.ts
+#EXTINF:-1,VIP AR: OSN First Home Of HBO
+http://193.200.164.171:6969/live/ismael/ismael123/6161.ts
+#EXTINF:-1,VIP: OSN Fox Movies HD
+http://193.200.164.171:6969/live/ismael/ismael123/6173.ts
+#EXTINF:-1,VIP: OSN Jim Jam
+http://193.200.164.171:6969/live/ismael/ismael123/6138.ts
+#EXTINF:-1,VIP: OSN MTV Live HD
+http://193.200.164.171:6969/live/ismael/ismael123/6013.ts
+#EXTINF:-1,VIP: OSN Musalsalat
+http://193.200.164.171:6969/live/ismael/ismael123/6145.ts
+#EXTINF:-1,VIP: OSN MusalSat
+http://193.200.164.171:6969/live/ismael/ismael123/6146.ts
+#EXTINF:-1,VIP AR :OSN Music Now
+http://193.200.164.171:6969/live/ismael/ismael123/6148.ts
+#EXTINF:-1,VIP: OSN Nickelodeon HD
+http://193.200.164.171:6969/live/ismael/ismael123/6139.ts
+#EXTINF:-1,VIP: OSN starZ
+http://193.200.164.171:6969/live/ismael/ismael123/6168.ts
+#EXTINF:-1,VIP: OSN starZ comedy
+http://193.200.164.171:6969/live/ismael/ismael123/6169.ts
+#EXTINF:-1,VIP: OSN starZ edge
+http://193.200.164.171:6969/live/ismael/ismael123/6170.ts
+#EXTINF:-1,VIP: OSN starZ family
+http://193.200.164.171:6969/live/ismael/ismael123/6171.ts
+#EXTINF:-1,VIP: OSN SYFY HD
+http://193.200.164.171:6969/live/ismael/ismael123/6167.ts
+#EXTINF:-1,VIP: OSN WWE HD
+http://193.200.164.171:6969/live/ismael/ismael123/6010.ts
+#EXTINF:-1,VIP: OSN Ya Hala
+http://193.200.164.171:6969/live/ismael/ismael123/6140.ts
+#EXTINF:-1,VIP: OSN Ya Hala 2
+http://193.200.164.171:6969/live/ismael/ismael123/6141.ts
+#EXTINF:-1,VIP: OSN Ya Hala Drama
+http://193.200.164.171:6969/live/ismael/ismael123/6142.ts
+#EXTINF:-1,VIP: OSN Ya Hala Shabab
+http://193.200.164.171:6969/live/ismael/ismael123/6143.ts
+#EXTINF:-1,VIP: OSN yas sport
+http://193.200.164.171:6969/live/ismael/ismael123/6012.ts
+#EXTINF:-1,AR: AL Nada
+http://193.200.164.171:6969/live/ismael/ismael123/9156.ts
+#EXTINF:-1,AR: Al Nas
+http://193.200.164.171:6969/live/ismael/ismael123/9157.ts
+#EXTINF:-1,AR: Al Ons
+http://193.200.164.171:6969/live/ismael/ismael123/9155.ts
+#EXTINF:-1,AR: Azhari
+http://193.200.164.171:6969/live/ismael/ismael123/9152.ts
+#EXTINF:-1,AR: Bahia TV
+http://193.200.164.171:6969/live/ismael/ismael123/9154.ts
+#EXTINF:-1,AR: KBC Algeria
+http://193.200.164.171:6969/live/ismael/ismael123/9153.ts
+#EXTINF:-1,AR: ADALEMARAT-HD
+http://193.200.164.171:6969/live/ismael/ismael123/13168.ts
+#EXTINF:-1,AR: Music Al Haneen
+http://193.200.164.171:6969/live/ismael/ismael123/16106.ts
+#EXTINF:-1,AR: SUDAN
+http://193.200.164.171:6969/live/ismael/ismael123/16177.ts
+#EXTINF:-1,VIP AR: AD SPORT 3
+http://193.200.164.171:6969/live/ismael/ismael123/16498.ts
+#EXTINF:-1,VIP AR: AD SPORT 4
+http://193.200.164.171:6969/live/ismael/ismael123/16497.ts
+#EXTINF:-1,VIP AR: AD SPORT 5
+http://193.200.164.171:6969/live/ismael/ismael123/16496.ts
+#EXTINF:-1,AR: Al Qamar
+http://193.200.164.171:6969/live/ismael/ismael123/16448.ts
+#EXTINF:-1,AR: Mekameleen TV
+http://193.200.164.171:6969/live/ismael/ismael123/17155.ts
+#EXTINF:-1,AR: Aghapy TV
+http://193.200.164.171:6969/live/ismael/ismael123/17176.ts
+#EXTINF:-1,AR: Al Fady
+http://193.200.164.171:6969/live/ismael/ismael123/17189.ts
+#EXTINF:-1,AR: AL MALAKOOT
+http://193.200.164.171:6969/live/ismael/ismael123/17190.ts
+#EXTINF:-1,AR: ALHAYAT
+http://193.200.164.171:6969/live/ismael/ismael123/17184.ts
+#EXTINF:-1,AR: ALHORREYA
+http://193.200.164.171:6969/live/ismael/ismael123/17180.ts
+#EXTINF:-1,AR: Alkarma TV
+http://193.200.164.171:6969/live/ismael/ismael123/17182.ts
+#EXTINF:-1,AR: COPTIC TV
+http://193.200.164.171:6969/live/ismael/ismael123/17181.ts
+#EXTINF:-1,AR: Logos TV
+http://193.200.164.171:6969/live/ismael/ismael123/17179.ts
+#EXTINF:-1,AR: Mariam TV
+http://193.200.164.171:6969/live/ismael/ismael123/17188.ts
+#EXTINF:-1,AR: NOUR AL SHARQ
+http://193.200.164.171:6969/live/ismael/ismael123/17187.ts
+#EXTINF:-1,AR: NOUR KODDASS
+http://193.200.164.171:6969/live/ismael/ismael123/17186.ts
+#EXTINF:-1,AR: Sat 7
+http://193.200.164.171:6969/live/ismael/ismael123/17177.ts
+#EXTINF:-1,AR: Sat 7 Kids
+http://193.200.164.171:6969/live/ismael/ismael123/17178.ts
+#EXTINF:-1,AR: Souria
+http://193.200.164.171:6969/live/ismael/ismael123/17185.ts
+#EXTINF:-1,AR: Tele Maroc
+http://193.200.164.171:6969/live/ismael/ismael123/17195.ts
+#EXTINF:-1,AR: ALGERIE 3
+http://193.200.164.171:6969/live/ismael/ismael123/17208.ts
+#EXTINF:-1,AR: ALGERIE 4
+http://193.200.164.171:6969/live/ismael/ismael123/17209.ts
+#EXTINF:-1,AR: ALGERIE 5
+http://193.200.164.171:6969/live/ismael/ismael123/17210.ts
+#EXTINF:-1,AR: Canal Algerie
+http://193.200.164.171:6969/live/ismael/ismael123/17211.ts
+#EXTINF:-1,AR: AL AAN TV
+http://193.200.164.171:6969/live/ismael/ismael123/17315.ts
+#EXTINF:-1,AR: Al Hayat 2
+http://193.200.164.171:6969/live/ismael/ismael123/17310.ts
+#EXTINF:-1,AR: Al Kahera Wal Nas 2
+http://193.200.164.171:6969/live/ismael/ismael123/17312.ts
+#EXTINF:-1,AR: AL MASRIYA
+http://193.200.164.171:6969/live/ismael/ismael123/17313.ts
+#EXTINF:-1,AR: Al Mustakila
+http://193.200.164.171:6969/live/ismael/ismael123/17317.ts
+#EXTINF:-1,AR: Alhurra
+http://193.200.164.171:6969/live/ismael/ismael123/17316.ts
+#EXTINF:-1,AR: ALkahera Wal Nas 1
+http://193.200.164.171:6969/live/ismael/ismael123/17311.ts
+#EXTINF:-1,AR: Alnahar Drama
+http://193.200.164.171:6969/live/ismael/ismael123/17314.ts
+#EXTINF:-1,AR: CINEMA PRO
+http://193.200.164.171:6969/live/ismael/ismael123/17318.ts
+#EXTINF:-1,AR: iFilm
+http://193.200.164.171:6969/live/ismael/ismael123/17319.ts
+#EXTINF:-1,AR: ONTV
+http://193.200.164.171:6969/live/ismael/ismael123/17320.ts
+#EXTINF:-1,AR: Orient
+http://193.200.164.171:6969/live/ismael/ismael123/17321.ts
+#EXTINF:-1,AR: Al Hayat Cinema
+http://193.200.164.171:6969/live/ismael/ismael123/17467.ts
+#EXTINF:-1,AR: Bein Sport HD
+http://193.200.164.171:6969/live/ismael/ismael123/17325.ts
+#EXTINF:-1,AR: Dream 2
+http://193.200.164.171:6969/live/ismael/ismael123/17468.ts
+#EXTINF:-1,AR: Elsharq
+http://193.200.164.171:6969/live/ismael/ismael123/17458.ts
+#EXTINF:-1,AR: MELODY CLASSIC
+http://193.200.164.171:6969/live/ismael/ismael123/17463.ts
+#EXTINF:-1,AR: Panorama Drama
+http://193.200.164.171:6969/live/ismael/ismael123/17372.ts
+#EXTINF:-1,AR: Panorama Drama 2
+http://193.200.164.171:6969/live/ismael/ismael123/17460.ts
+#EXTINF:-1,AR: PANORAMA DRAMA1
+http://193.200.164.171:6969/live/ismael/ismael123/17459.ts
+#EXTINF:-1,AR: Panorama Food
+http://193.200.164.171:6969/live/ismael/ismael123/17466.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://193.200.164.171:6969/live/ismael/ismael123/17469.ts
+#EXTINF:-1,AR: STAR CINEMA 2
+http://193.200.164.171:6969/live/ismael/ismael123/17470.ts
+#EXTINF:-1,AR: Time Cinema
+http://193.200.164.171:6969/live/ismael/ismael123/17461.ts
+#EXTINF:-1,AR: Toktok Aflam
+http://193.200.164.171:6969/live/ismael/ismael123/17462.ts
+#EXTINF:-1,AR: beIN Drama HD
+http://193.200.164.171:6969/live/ismael/ismael123/17624.ts
+#EXTINF:-1,AR: AL JANOUBIA
+http://193.200.164.171:6969/live/ismael/ismael123/17642.ts
+#EXTINF:-1,AR: ATTESSIA TV
+http://193.200.164.171:6969/live/ismael/ismael123/17646.ts
+#EXTINF:-1,AR: Elhiwar Ettounsi
+http://193.200.164.171:6969/live/ismael/ismael123/17647.ts
+#EXTINF:-1,AR: HANNIBAL
+http://193.200.164.171:6969/live/ismael/ismael123/17643.ts
+#EXTINF:-1,AR: TELVZA TV
+http://193.200.164.171:6969/live/ismael/ismael123/17644.ts
+#EXTINF:-1,AR: Tounesna
+http://193.200.164.171:6969/live/ismael/ismael123/17645.ts
+#EXTINF:-1,AR: Al Haddaf
+http://193.200.164.171:6969/live/ismael/ismael123/17808.ts
+#EXTINF:-1,AR: El Heddaf TV
+http://193.200.164.171:6969/live/ismael/ismael123/17769.ts
+#EXTINF:-1,AR: AL SIRAT
+http://193.200.164.171:6969/live/ismael/ismael123/7023.ts
+#EXTINF:-1,AR: AL MASIRAH
+http://193.200.164.171:6969/live/ismael/ismael123/7177.ts
+#EXTINF:-1,AR: AlNahar Iraq
+http://193.200.164.171:6969/live/ismael/ismael123/7462.ts
+#EXTINF:-1,AR: OSN First
+http://193.200.164.171:6969/live/ismael/ismael123/3374.ts
+#EXTINF:-1,AR: IRAQ FUTURE
+http://193.200.164.171:6969/live/ismael/ismael123/7459.ts
+#EXTINF:-1,VIP AR: OSN BBC First
+http://193.200.164.171:6969/live/ismael/ismael123/6240.ts
+#EXTINF:-1,AR: Al Iraqia News
+http://193.200.164.171:6969/live/ismael/ismael123/9164.ts
+#EXTINF:-1,AR: OSN YAHALA CINEMA FHD
+http://193.200.164.171:6969/live/ismael/ismael123/18004.ts
+#EXTINF:-1,AR: OSN YAHALA FHD
+http://193.200.164.171:6969/live/ismael/ismael123/18003.ts
+#EXTINF:-1,AR: OSN YAHALA OULA FHD
+http://193.200.164.171:6969/live/ismael/ismael123/18002.ts
+#EXTINF:-1,AR: DzairNews
+http://193.200.164.171:6969/live/ismael/ismael123/9158.ts
+#EXTINF:-1,AR: MIRACLE
+http://193.200.164.171:6969/live/ismael/ismael123/17183.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://193.200.164.171:6969/live/ismael/ismael123/17465.ts
+#EXTINF:-1,AR: CAIRO DRAMA
+http://193.200.164.171:6969/live/ismael/ismael123/17464.ts
+#EXTINF:-1,AR: ALBILAD
+http://193.200.164.171:6969/live/ismael/ismael123/6613.ts
+#EXTINF:-1,AR: Albasra TV
+http://193.200.164.171:6969/live/ismael/ismael123/7187.ts
+
+#EXTINF:-1,AR: MBC 1
+http://164.132.200.17:8080/live/ilker67/ilker67/2978.ts
+#EXTINF:-1,AR: MBC 2
+http://164.132.200.17:8080/live/ilker67/ilker67/2979.ts
+#EXTINF:-1,AR: MBC 3
+http://164.132.200.17:8080/live/ilker67/ilker67/2980.ts
+#EXTINF:-1,AR: MBC 4
+http://164.132.200.17:8080/live/ilker67/ilker67/2981.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://164.132.200.17:8080/live/ilker67/ilker67/2985.ts
+#EXTINF:-1,AR: MCB ACTION
+http://164.132.200.17:8080/live/ilker67/ilker67/2983.ts
+#EXTINF:-1,AR: MCB DRAMA
+http://164.132.200.17:8080/live/ilker67/ilker67/2984.ts
+#EXTINF:-1,AR: MCB MAX
+http://164.132.200.17:8080/live/ilker67/ilker67/2982.ts
+#EXTINF:-1,AR: CBC
+http://164.132.200.17:8080/live/ilker67/ilker67/2997.ts
+#EXTINF:-1,AR: CBC DRAMA
+http://164.132.200.17:8080/live/ilker67/ilker67/2998.ts
+#EXTINF:-1,AR: CBC EXTRA
+http://164.132.200.17:8080/live/ilker67/ilker67/2999.ts
+#EXTINF:-1,AR: DMC
+http://164.132.200.17:8080/live/ilker67/ilker67/3017.ts
+#EXTINF:-1,AR: DMC DRAMA
+http://164.132.200.17:8080/live/ilker67/ilker67/3018.ts
+#EXTINF:-1,AR: Abu Dhabi TV
+http://164.132.200.17:8080/live/ilker67/ilker67/3002.ts
+#EXTINF:-1,AR: Al Nahar
+http://164.132.200.17:8080/live/ilker67/ilker67/3000.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://164.132.200.17:8080/live/ilker67/ilker67/3001.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://164.132.200.17:8080/live/ilker67/ilker67/3013.ts
+#EXTINF:-1,AR: Cairo Drama
+http://164.132.200.17:8080/live/ilker67/ilker67/3012.ts
+#EXTINF:-1,AR: OSN Art Aflam 1
+http://164.132.200.17:8080/live/ilker67/ilker67/2988.ts
+#EXTINF:-1,AR: OSN Art Aflam 2
+http://164.132.200.17:8080/live/ilker67/ilker67/2989.ts
+#EXTINF:-1,AR: OSN Art Cinema
+http://164.132.200.17:8080/live/ilker67/ilker67/2990.ts
+#EXTINF:-1,AR: OSN Action 2
+http://164.132.200.17:8080/live/ilker67/ilker67/2991.ts
+#EXTINF:-1,AR: OSN Action
+http://164.132.200.17:8080/live/ilker67/ilker67/2992.ts
+#EXTINF:-1,AR: Melody Cinema
+http://164.132.200.17:8080/live/ilker67/ilker67/3015.ts
+#EXTINF:-1,AR: Melody Classic
+http://164.132.200.17:8080/live/ilker67/ilker67/3016.ts
+#EXTINF:-1,AR: Melody Drama
+http://164.132.200.17:8080/live/ilker67/ilker67/3014.ts
+#EXTINF:-1,AR: Nile Cinema
+http://164.132.200.17:8080/live/ilker67/ilker67/2994.ts
+#EXTINF:-1,AR: Nile Comedy
+http://164.132.200.17:8080/live/ilker67/ilker67/2993.ts
+#EXTINF:-1,AR: Nile Drama
+http://164.132.200.17:8080/live/ilker67/ilker67/2996.ts
+#EXTINF:-1,AR: Nile Family
+http://164.132.200.17:8080/live/ilker67/ilker67/2995.ts
+#EXTINF:-1,AR: ON E
+http://164.132.200.17:8080/live/ilker67/ilker67/3019.ts
+#EXTINF:-1,AR: ON Live
+http://164.132.200.17:8080/live/ilker67/ilker67/3020.ts
+#EXTINF:-1,AR: Panorama Drama
+http://164.132.200.17:8080/live/ilker67/ilker67/3010.ts
+#EXTINF:-1,AR: Panorama Drama 2
+http://164.132.200.17:8080/live/ilker67/ilker67/3011.ts
+#EXTINF:-1,AR: Panorama Film
+http://164.132.200.17:8080/live/ilker67/ilker67/3009.ts
+#EXTINF:-1,AR: Rotana Aflam
+http://164.132.200.17:8080/live/ilker67/ilker67/3003.ts
+#EXTINF:-1,AR: Rotana Cinema
+http://164.132.200.17:8080/live/ilker67/ilker67/3005.ts
+#EXTINF:-1,AR: Rotana Classic
+http://164.132.200.17:8080/live/ilker67/ilker67/3004.ts
+#EXTINF:-1,AR: Rotana Clip
+http://164.132.200.17:8080/live/ilker67/ilker67/3006.ts
+#EXTINF:-1,AR: Rotana Khalijia
+http://164.132.200.17:8080/live/ilker67/ilker67/3008.ts
+#EXTINF:-1,AR: Rotana Music
+http://164.132.200.17:8080/live/ilker67/ilker67/3007.ts
+#EXTINF:-1,AR: Zee Aflam
+http://164.132.200.17:8080/live/ilker67/ilker67/2987.ts
+#EXTINF:-1,AR: Zee Alwan
+http://164.132.200.17:8080/live/ilker67/ilker67/2986.ts
+#EXTINF:-1,AR: ART Aflam 1
+http://164.132.200.17:8080/live/ilker67/ilker67/3565.ts
+#EXTINF:-1,AR: ART Aflam 2
+http://164.132.200.17:8080/live/ilker67/ilker67/3566.ts
+#EXTINF:-1,AR: ART Cinema
+http://164.132.200.17:8080/live/ilker67/ilker67/3567.ts
+#EXTINF:-1,AR: ART Hekayat
+http://164.132.200.17:8080/live/ilker67/ilker67/3568.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://164.132.200.17:8080/live/ilker67/ilker67/3569.ts
+#EXTINF:-1,AR: Cartoon Network
+http://164.132.200.17:8080/live/ilker67/ilker67/3570.ts
+#EXTINF:-1,BR: GNT HD
+http://164.132.200.17:8080/live/ilker67/ilker67/4170.ts
+#EXTINF:-1,BR: GLOBE
+http://164.132.200.17:8080/live/ilker67/ilker67/4169.ts
+#EXTINF:-1,LBN: ALJADID
+http://164.132.200.17:8080/live/ilker67/ilker67/3558.ts
+#EXTINF:-1,LBN: Future TV
+http://164.132.200.17:8080/live/ilker67/ilker67/3562.ts
+#EXTINF:-1,LBN: LBC
+http://164.132.200.17:8080/live/ilker67/ilker67/3560.ts
+#EXTINF:-1,LBN: LDC
+http://164.132.200.17:8080/live/ilker67/ilker67/3559.ts
+#EXTINF:-1,LBN: NBN
+http://164.132.200.17:8080/live/ilker67/ilker67/3563.ts
+#EXTINF:-1,LBN: OTV
+http://164.132.200.17:8080/live/ilker67/ilker67/3561.ts
+#EXTINF:-1,LBN: SAMA TV
+http://164.132.200.17:8080/live/ilker67/ilker67/3564.ts
  
-#EXTINF:-1,iptv48
-#EXTINF:-1,============= BeIN Channels =============
-http://geant-info.us/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
-#EXTINF:-1,..:: BEIN SPORTS 4K ::..
-http://geant-info.us/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 1 4K
-http://geant-info.us/live/get.php?stream=27&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 2 4K
-http://geant-info.us/live/get.php?stream=28&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 3 4K
-http://geant-info.us/live/get.php?stream=29&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 4 4K
-http://geant-info.us/live/get.php?stream=30&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 5 4K
-http://geant-info.us/live/get.php?stream=31&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 6 4K
-http://geant-info.us/live/get.php?stream=32&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 7 4K
-http://geant-info.us/live/get.php?stream=33&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 8 4K
-http://geant-info.us/live/get.php?stream=34&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 1 4K
-http://geant-info.us/live/get.php?stream=39&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 2 4K
-http://geant-info.us/live/get.php?stream=40&username=67707200046526&password=67707200046526
-#EXTINF:-1,..:: BEIN SPORTS HD ::..
-http://geant-info.us/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://geant-info.us/live/get.php?stream=17&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://geant-info.us/live/get.php?stream=18&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://geant-info.us/live/get.php?stream=19&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://geant-info.us/live/get.php?stream=20&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://geant-info.us/live/get.php?stream=21&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://geant-info.us/live/get.php?stream=22&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://geant-info.us/live/get.php?stream=23&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://geant-info.us/live/get.php?stream=24&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://geant-info.us/live/get.php?stream=25&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://geant-info.us/live/get.php?stream=26&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 1 HD
-http://geant-info.us/live/get.php?stream=39&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 2 HD
-http://geant-info.us/live/get.php?stream=40&username=67707200046526&password=67707200046526
-#EXTINF:-1,..:: BEIN SPORTS SD ::..
-http://geant-info.us/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://geant-info.us/live/get.php?stream=9&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://geant-info.us/live/get.php?stream=10&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://geant-info.us/live/get.php?stream=11&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://geant-info.us/live/get.php?stream=12&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://geant-info.us/live/get.php?stream=13&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 6 SD
-http://geant-info.us/live/get.php?stream=14&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 7 SD
-http://geant-info.us/live/get.php?stream=15&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS 8 SD
-http://geant-info.us/live/get.php?stream=16&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 1 SD
-http://geant-info.us/live/get.php?stream=39&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEIN SPORTS MAX 2 SD
-http://geant-info.us/live/get.php?stream=40&username=67707200046526&password=67707200046526
-#EXTINF:-1,..:: BEINSPORT Low ::..
-http://geant-info.us/live/get.php?stream=iptv&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 1 Low
-http://geant-info.us/live/get.php?stream=1&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 2 Low
-http://geant-info.us/live/get.php?stream=2&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 3 Low
-http://geant-info.us/live/get.php?stream=3&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 4 Low
-http://geant-info.us/live/get.php?stream=4&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 5 Low
-http://geant-info.us/live/get.php?stream=5&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 6 Low
-http://geant-info.us/live/get.php?stream=6&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 7 Low
-http://geant-info.us/live/get.php?stream=7&username=67707200046526&password=67707200046526
-#EXTINF:-1,BEINSPORT 8 Low
-http://geant-info.us/live/get.php?stream=8&username=67707200046526&password=67707200046526
+
